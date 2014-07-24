@@ -1,0 +1,1751 @@
+Key,Prediction,Borough,Neighborhood
+61_26.02,14.19441857,Manhattan,East Village
+61_34.00,13.96122292,Manhattan,East Village
+61_30.01,13.95797713,Manhattan,Lower East Side
+61_115.00,13.39178455,Manhattan,Garment District
+61_38.00,12.75626973,Manhattan,East Village
+61_113.00,12.7365509,Manhattan,Midtown
+47_481.00,12.5678233,Brooklyn,East Williamsburg
+61_146.01,12.42890756,Manhattan,Yorkville
+61_94.00,12.12670279,Manhattan,Midtown
+61_96.00,12.07781477,Manhattan,Midtown
+47_505.00,12.0095528,Brooklyn,East Williamsburg
+61_161.00,11.96477787,Manhattan,Upper West Side
+61_127.00,11.91569673,Manhattan,Clinton
+61_234.00,11.84574835,Manhattan,Central Harlem ( Northof 125th)
+47_453.00,11.64492651,Brooklyn,Buschwick / Greenpoint Industrial Zone
+81_61.00,11.62476134,Queens,Astoria
+61_111.00,11.59773886,Manhattan,Garment District
+47_499.00,11.52369849,Brooklyn,Greenpoint
+61_169.00,11.4968338,Manhattan,Upper West Side
+47_447.00,11.48997951,Brooklyn,Bushwick
+47_477.00,11.40629415,Brooklyn,East Williamsburg
+61_216.00,11.25351067,Manhattan,Central Harlem ( South of 125th)
+47_553.00,11.2459875,Brooklyn,Northside Williamsburg
+47_493.00,11.23540782,Brooklyn,East Williamsburg
+61_18.00,11.14627558,Manhattan,Lower East Side
+47_519.00,11.12890844,Brooklyn,Northside Williamsburg
+81_63.00,11.0779693,Queens,Astoria
+61_36.02,11.06241228,Manhattan,East Village
+61_226.00,10.99231321,Manhattan,Central Harlem ( Northof 125th)
+61_14.02,10.87961712,Manhattan,Lower East Side
+47_569.00,10.6987783,Brooklyn,Greenpoint
+61_30.02,10.68982072,Manhattan,East Village
+47_37.00,10.68787369,Brooklyn,Downtown BK
+61_133.00,10.67806432,Manhattan,Clinton
+61_119.00,10.60570715,Manhattan,Midtown
+61_146.02,10.59703227,Manhattan,Yorkville
+61_45.00,10.50758041,Manhattan,Soho
+61_22.02,10.46168353,Manhattan,East Village
+47_33.00,10.46155176,Brooklyn,Fort Greene
+61_32.00,10.45186539,Manhattan,East Village
+61_103.00,10.41204672,Manhattan,Garment District
+61_201.02,10.35717479,Manhattan,Central Harlem ( South of 125th)
+61_208.00,10.35202868,Manhattan,Central Harlem ( Northof 125th)
+61_40.00,10.35152933,Manhattan,East Village
+47_571.00,10.3354825,Brooklyn,Greenpoint
+47_575.00,10.3336793,Brooklyn,Greenpoint
+47_565.00,10.31032909,Brooklyn,Greenpoint
+61_73.00,10.28801983,Manhattan,West Village
+47_495.00,10.27868327,Brooklyn,East Williamsburg
+61_121.00,10.20599921,Manhattan,Clinton
+47_591.00,10.16577881,Brooklyn,Greenpoint
+47_517.00,10.13447881,Brooklyn,Northside Williamsburg
+47_497.00,10.11668791,Brooklyn,East Williamsburg
+61_172.02,10.11439795,Manhattan,Spanish Harlem
+61_172.01,10.1131817,Manhattan,Spanish Harlem
+61_129.00,10.10440159,Manhattan,Clinton
+81_159.00,10.09679701,Queens,Astoria
+47_563.00,10.04579622,Brooklyn,Greenpoint
+61_193.00,10.03297286,Manhattan,Manhattan Valley
+47_181.00,10.03292031,Brooklyn,Fort Greene
+61_218.00,10.00500446,Manhattan,Central Harlem ( South of 125th)
+61_43.00,9.955691873,Manhattan,Soho
+47_579.00,9.954865635,Brooklyn,Buschwick / Greenpoint Industrial Zone
+47_315.00,9.947851129,Brooklyn,Crown Heights
+61_222.00,9.883804976,Manhattan,Central Harlem ( South of 125th)
+47_293.00,9.881859004,Brooklyn,Bedford Stuyvesant
+61_77.00,9.79573862,Manhattan,West Village
+81_157.00,9.747100541,Queens,Astoria
+61_197.02,9.71984002,Manhattan,Central Harlem ( South of 125th)
+61_89.00,9.716572411,Manhattan,Chelsea
+61_200.00,9.687231741,Manhattan,Central Harlem ( South of 125th)
+61_87.00,9.629161086,Manhattan,Chelsea
+47_557.00,9.564019296,Brooklyn,Northside Williamsburg
+47_225.00,9.488176464,Brooklyn,Pro-Cro
+47_223.00,9.48790859,Brooklyn,Pro-Cro
+61_156.01,9.467097449,Manhattan,Yorkville
+47_7.00,9.455334041,Brooklyn,Brooklyn Heights
+47_567.00,9.449453024,Brooklyn,Greenpoint
+47_559.00,9.448462367,Brooklyn,Greenpoint
+61_49.00,9.433629741,Manhattan,Soho
+47_163.00,9.381010288,Brooklyn,Prospect Heights
+61_16.00,9.337173859,Manhattan,Chinatown
+61_26.01,9.329177584,Manhattan,East Village
+47_573.00,9.308573218,Brooklyn,Greenpoint
+47_45.00,9.305752051,Brooklyn,Cobble Hill
+61_228.00,9.266528704,Manhattan,Central Harlem ( Northof 125th)
+47_431.00,9.261395082,Brooklyn,Bushwick
+47_427.00,9.247417289,Brooklyn,Bushwick
+61_154.00,9.204756718,Manhattan,Yorkville
+47_167.00,9.186294446,Brooklyn,Park Slope
+61_157.00,9.147557906,Manhattan,Lincoln Square
+61_65.00,9.141482507,Manhattan,Greenwich Village
+81_59.00,9.140988245,Queens,Astoria
+47_165.00,9.127730241,Brooklyn,Park Slope
+61_178.00,9.120589731,Manhattan,East Harlem
+61_75.00,9.079671962,Manhattan,West Village
+81_65.00,9.032612979,Queens,Astoria
+61_206.00,9.017971293,Manhattan,East Harlem
+81_67.00,9.010262279,Queens,Steinway
+47_357.00,8.992810579,Brooklyn,Weeksville
+47_523.00,8.976149223,Brooklyn,Southside Williamsburg
+47_159.00,8.96801194,Brooklyn,Park Slope
+61_171.00,8.965713915,Manhattan,Upper West Side
+61_144.02,8.922205179,Manhattan,Yorkville
+61_220.00,8.91918513,Manhattan,Central Harlem ( South of 125th)
+61_165.00,8.912064379,Manhattan,Upper West Side
+61_67.00,8.90925903,Manhattan,West Village
+61_138.00,8.888785494,Manhattan,Yorkville
+61_29.00,8.863302079,Manhattan,Chinatown
+47_39.00,8.858691639,Brooklyn,Boerum Hill
+47_5.00,8.825106856,Brooklyn,Brooklyn Heights
+61_48.00,8.815760256,Manhattan,Grammercy
+61_166.00,8.809139908,Manhattan,Spanish Harlem
+61_41.00,8.804225929,Manhattan,Little Italy
+47_501.00,8.788661144,Brooklyn,East Williamsburg
+61_132.00,8.759054419,Manhattan,Yorkville
+47_251.00,8.73299175,Brooklyn,Bedford Stuyvesant
+47_161.00,8.73013016,Brooklyn,Prospect Heights
+47_593.00,8.707450216,Brooklyn,Greenpoint
+61_139.00,8.700753676,Manhattan,Clinton
+61_109.00,8.677347639,Manhattan,Garment District
+81_95.00,8.671521502,Queens,Steinway
+61_213.01,8.667281977,Manhattan,Manhattanville
+61_36.01,8.665527465,Manhattan,Lower East Side
+47_207.00,8.663249309,Brooklyn,Prospect Heights
+61_182.00,8.65613956,Manhattan,East Harlem
+47_82.00,8.626563753,Brooklyn,Sunset Park
+61_189.00,8.6229466,Manhattan,Manhattan Valley
+61_144.01,8.618858166,Manhattan,Yorkville
+47_201.00,8.592512599,Brooklyn,Clinton Hill
+61_81.00,8.577065943,Manhattan,Chelsea
+61_173.00,8.560411832,Manhattan,Upper West Side
+47_205.00,8.556196335,Brooklyn,Prospect Heights
+61_148.02,8.506372379,Manhattan,Carnegie Hill
+47_239.00,8.501336104,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+47_237.00,8.500304947,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+47_199.00,8.48470842,Brooklyn,Clinton Hill
+47_551.00,8.482926981,Brooklyn,Southside Williamsburg
+61_93.00,8.458533495,Manhattan,Chelsea
+61_9.00,8.455693276,Manhattan,Financial District
+47_43.00,8.447515998,Brooklyn,Boerum Hill
+47_123.00,8.446011868,Brooklyn,Gowanus
+47_125.00,8.44534324,Brooklyn,Gowanus
+61_80.00,8.44459436,Manhattan,Murray Hill
+47_487.00,8.41785798,Brooklyn,Buschwick / Greenpoint Industrial Zone
+47_483.00,8.415239697,Brooklyn,Buschwick / Greenpoint Industrial Zone
+81_71.00,8.354088762,Queens,Astoria
+47_65.00,8.339410749,Brooklyn,Carroll Gardens
+61_209.01,8.330351589,Manhattan,Morningside Heights
+61_163.00,8.327074336,Manhattan,Upper West Side
+47_317.01,8.310157706,Brooklyn,Crown Heights
+81_151.00,8.299491011,Queens,Astoria
+47_131.00,8.290428301,Brooklyn,Park Slope
+61_209.02,8.282054572,Manhattan,Central Harlem ( South of 125th)
+47_221.00,8.272280838,Brooklyn,Pro-Cro
+47_27.00,8.257461505,Brooklyn,Downtown BK
+47_25.00,8.255793289,Brooklyn,Farragut
+61_207.02,8.228477273,Manhattan,Central Harlem ( South of 125th)
+47_219.00,8.225587423,Brooklyn,Pro-Cro
+61_68.00,8.224415888,Manhattan,Grammercy
+61_134.00,8.209855832,Manhattan,Yorkville
+61_83.00,8.201849268,Manhattan,Chelsea
+47_425.00,8.192230193,Brooklyn,Bushwick
+61_8.00,8.178805866,Manhattan,Two Bridges
+61_135.00,8.175543163,Manhattan,Clinton
+47_217.00,8.175337541,Brooklyn,Pro-Cro
+61_224.00,8.165928848,Manhattan,Central Harlem ( Northof 125th)
+61_235.02,8.134096545,Manhattan,Central Harlem ( Northof 125th)
+61_230.00,8.131213659,Manhattan,Central Harlem ( Northof 125th)
+61_221.01,8.124859833,Manhattan,Hamilton Heights
+61_227.01,8.123361784,Manhattan,Hamilton Heights
+61_101.00,8.112949543,Manhattan,Garment District
+47_515.00,8.084640987,Brooklyn,Northside Williamsburg
+61_22.01,8.077317582,Manhattan,Lower East Side
+61_231.01,8.046946179,Manhattan,Hamilton Heights
+47_135.00,8.046246735,Brooklyn,Park Slope
+61_55.02,8.030386123,Manhattan,Noho
+47_9.00,8.017241434,Brooklyn,Brooklyn Heights
+61_213.02,8.012979795,Manhattan,Central Harlem ( Northof 125th)
+61_217.02,8.012795051,Manhattan,Central Harlem ( Northof 125th)
+81_545.00,8.009062453,Queens,Ridgewood
+61_175.00,7.995024799,Manhattan,Upper West Side
+61_188.00,7.977225128,Manhattan,East Harlem
+61_194.00,7.973689264,Manhattan,East Harlem
+81_589.00,7.971095791,Queens,Ridgewood
+47_3.01,7.963678498,Brooklyn,Brooklyn Heights
+47_417.00,7.939974378,Brooklyn,Bushwick
+81_1467.00,7.922795736,Queens,Bayside
+47_429.00,7.922010556,Brooklyn,Bushwick
+47_203.00,7.910426629,Brooklyn,Prospect Heights
+61_28.00,7.888026307,Manhattan,East Village
+81_141.00,7.887848351,Queens,Astoria Heights
+47_215.00,7.885275109,Brooklyn,Prospect Heights
+61_153.00,7.863429583,Manhattan,Lincoln Square
+61_126.00,7.859569395,Manhattan,Midtown North
+81_155.00,7.856380041,Queens,Astoria
+61_98.00,7.843085222,Manhattan,Turtle Bay
+61_27.00,7.8320763,Manhattan,Chinatown
+47_183.00,7.801644888,Brooklyn,Fort Greene
+81_105.00,7.785479467,Queens,Steinway
+47_265.00,7.750660766,Brooklyn,Bedford Stuyvesant
+81_19.00,7.744826157,Queens,Queens West / Hunter's Point
+47_241.00,7.743340387,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+47_377.00,7.725182044,Brooklyn,Historic Bed-Stuy
+61_243.01,7.71972671,Manhattan,Washington Heights
+47_353.00,7.716337252,Brooklyn,Crown Heights South
+47_513.00,7.714731041,Brooklyn,East Williamsburg
+61_95.00,7.697919225,Manhattan,Garment District
+61_232.00,7.696726202,Manhattan,Central Harlem ( Northof 125th)
+81_149.00,7.692291956,Queens,Astoria
+81_51.00,7.680180813,Queens,Long Island City
+81_77.00,7.679394992,Queens,Astoria
+61_97.00,7.669952535,Manhattan,Chelsea
+81_161.00,7.663623596,Queens,Astoria
+47_503.00,7.662430088,Brooklyn,East Williamsburg
+81_7.00,7.655910544,Queens,Queens West / Hunter's Point
+61_82.00,7.650018748,Manhattan,Midtown
+61_227.02,7.640859788,Manhattan,Central Harlem ( Northof 125th)
+61_231.02,7.640110809,Manhattan,Central Harlem ( Northof 125th)
+47_577.00,7.629917952,Brooklyn,Greenpoint
+47_121.00,7.628402637,Brooklyn,Gowanus
+61_191.00,7.62232749,Manhattan,Upper West Side
+81_47.00,7.621493901,Queens,Ravenswood / Queensbridge
+61_190.00,7.614960792,Manhattan,Central Harlem ( South of 125th)
+61_212.00,7.602676107,Manhattan,Central Harlem ( Northof 125th)
+61_158.02,7.598277879,Manhattan,Carnegie Hill
+47_196.00,7.58986503,Brooklyn,Dyker Heights
+81_253.00,7.575228309,Queens,Sunnyside
+47_231.00,7.569244872,Brooklyn,Clinton Hill
+47_69.00,7.568437346,Brooklyn,Boerum Hill
+81_39.00,7.563361222,Queens,Ravenswood / Queensbridge
+61_64.00,7.552713272,Manhattan,Grammercy
+81_115.00,7.551604436,Queens,Steinway
+61_104.00,7.535316345,Manhattan,Midtown
+61_51.00,7.497365465,Manhattan,Hudson Square
+61_53.00,7.496830973,Manhattan,Hudson Square
+47_72.00,7.491947108,Brooklyn,Sunset Park
+61_47.00,7.489359573,Manhattan,Soho
+81_57.00,7.436105582,Queens,Astoria
+47_507.00,7.383969284,Brooklyn,South Williamsburg
+61_136.00,7.3686354,Manhattan,Yorkville
+61_59.00,7.365592269,Manhattan,Greenwich Village
+47_511.00,7.350134876,Brooklyn,East Williamsburg
+47_531.00,7.340615735,Brooklyn,South Williamsburg
+47_1.00,7.337870207,Brooklyn,Brooklyn Heights
+81_181.00,7.333576476,Queens,Sunnyside
+61_84.00,7.329907807,Manhattan,Midtown
+61_159.00,7.315393623,Manhattan,Lincoln Square
+47_35.00,7.299428162,Brooklyn,Fort Greene
+61_185.00,7.295993129,Manhattan,Manhattan Valley
+47_129.02,7.280223921,Brooklyn,Park Slope
+61_72.00,7.27177476,Manhattan,Murray Hill
+47_197.00,7.259466316,Brooklyn,Clinton Hill
+61_79.00,7.256961585,Manhattan,Meat Packing District
+47_445.00,7.253911099,Brooklyn,Bushwick
+47_129.01,7.250037708,Brooklyn,Park Slope
+81_1347.00,7.248505437,Queens,Fresh Meadows
+61_15.02,7.2412186,Manhattan,Financial District
+61_223.01,7.226122681,Manhattan,Hamilton Heights
+81_1.00,7.215899134,Queens,Queens West / Hunter's Point
+81_551.00,7.21534451,Queens,Ridgewood
+81_69.00,7.211427075,Queens,Astoria
+61_44.02,7.170710079,Manhattan,Waterside
+47_191.00,7.163912397,Brooklyn,Clinton Hill
+47_88.00,7.142689017,Brooklyn,Sunset Park
+81_579.00,7.110882034,Queens,Glendale
+81_549.00,7.101976242,Queens,Ridgewood
+61_170.00,7.090574721,Manhattan,Spanish Harlem
+61_158.01,7.0867583,Manhattan,Carnegie Hill
+47_341.00,7.070457084,Brooklyn,Crown Heights
+47_77.00,7.052401319,Brooklyn,Gowanus
+61_211.00,7.052390682,Manhattan,Morningside Heights
+47_137.00,7.050852208,Brooklyn,Park Slope
+47_269.00,7.041700702,Brooklyn,Historic Bed-Stuy
+81_75.00,7.029514948,Queens,Astoria
+47_59.00,7.025256565,Brooklyn,Red Hook
+81_55.00,7.023327801,Queens,Long Island City
+47_589.00,7.023145638,Brooklyn,Buschwick / Greenpoint Industrial Zone
+61_92.00,7.013621788,Manhattan,Midtown
+61_33.00,6.996500839,Manhattan,Tribeca
+61_70.00,6.98607458,Manhattan,Murray Hill
+81_53.00,6.970383925,Queens,Astoria
+61_6.00,6.953333604,Manhattan,Two Bridges
+47_549.00,6.946254753,Brooklyn,Southside Williamsburg
+61_233.00,6.942336763,Manhattan,Hamilton Heights
+61_131.00,6.939862829,Manhattan,Midtown
+61_76.00,6.925568301,Manhattan,NoMad
+47_67.00,6.917136482,Brooklyn,Cobble Hill
+61_179.00,6.912046865,Manhattan,Upper West Side
+47_117.00,6.906017156,Brooklyn,Gowanus
+61_69.00,6.892643081,Manhattan,West Village
+47_555.00,6.889700632,Brooklyn,Northside Williamsburg
+47_527.00,6.882579759,Brooklyn,South Williamsburg
+47_441.00,6.87382569,Brooklyn,Bushwick
+81_91.00,6.869094356,Queens,Astoria
+47_153.00,6.853702837,Brooklyn,Park Slope
+47_311.00,6.841185158,Brooklyn,Crown Heights
+47_139.00,6.84025738,Brooklyn,Park Slope
+47_275.00,6.836623718,Brooklyn,Historic Bed-Stuy
+47_179.00,6.826412124,Brooklyn,Fort Greene
+61_117.00,6.82416687,Manhattan,Clinton
+61_122.00,6.820363361,Manhattan,Gold Coast - Upper East Side
+61_167.00,6.816194664,Manhattan,Upper West Side
+47_21.00,6.804281229,Brooklyn,Dumbo/ Vinegar Hill / Fulton Ferry
+81_613.00,6.804102804,Queens,Ridgewood
+81_249.00,6.793436994,Queens,Woodside
+47_321.00,6.792697028,Brooklyn,Prospect Lefferts Garden
+47_29.01,6.789875184,Brooklyn,Farragut
+61_54.00,6.768465204,Manhattan,Flatiron
+47_361.00,6.76615198,Brooklyn,Ocean Hill
+61_13.00,6.76420173,Manhattan,Financial District
+47_465.00,6.746122585,Brooklyn,East Williamsburg
+47_29.02,6.744578502,Brooklyn,Farragut
+47_473.00,6.742893871,Brooklyn,Buschwick / Greenpoint Industrial Zone
+47_379.00,6.740294613,Brooklyn,Historic Bed-Stuy
+47_391.00,6.736544086,Brooklyn,Bushwick
+47_486.00,6.729075433,Brooklyn,Kennsington
+61_42.00,6.727043044,Manhattan,Union  Square
+47_133.00,6.710990424,Brooklyn,Park Slope
+61_184.00,6.710867328,Manhattan,East Harlem
+47_291.00,6.692082636,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+47_185.02,6.691155096,Brooklyn,Wallabout
+47_455.00,6.683401073,Brooklyn,Buschwick / Greenpoint Industrial Zone
+47_912.00,6.682556982,Brooklyn,Brownsville
+81_265.00,6.679714845,Queens,Elmhurst
+61_214.00,6.674221174,Manhattan,Central Harlem ( Northof 125th)
+47_92.00,6.666569593,Brooklyn,Sunset Park
+61_148.01,6.655884995,Manhattan,Carnegie Hill
+61_196.00,6.653139972,Manhattan,East Harlem
+47_351.00,6.650133153,Brooklyn,Crown Heights South
+61_110.00,6.648136582,Manhattan,Midtown North
+47_491.00,6.642347615,Brooklyn,East Williamsburg
+61_52.00,6.640267276,Manhattan,Union  Square
+47_337.00,6.637325514,Brooklyn,Crown Heights
+47_185.01,6.626902642,Brooklyn,Wallabout
+81_285.00,6.618854,Queens,Jackson Heights
+61_78.00,6.614370948,Manhattan,Murray Hill
+47_313.00,6.603481758,Brooklyn,Crown Heights
+61_155.00,6.599418316,Manhattan,Lincoln Square
+47_249.00,6.599170652,Brooklyn,Historic Bed-Stuy
+61_63.00,6.593358027,Manhattan,Greenwich Village
+61_150.01,6.58642214,Manhattan,Carnegie Hill
+61_238.00,6.570318642,Manhattan,Roosevelt Island
+61_235.01,6.56425538,Manhattan,Hamilton Heights
+61_100.00,6.561740322,Manhattan,Midtown
+47_347.00,6.543494435,Brooklyn,Weeksville
+47_910.00,6.528172035,Brooklyn,Brownsville
+61_91.00,6.513313873,Manhattan,Chelsea
+47_547.00,6.502557027,Brooklyn,Southside Williamsburg
+47_145.00,6.49992625,Brooklyn,Greenwood
+81_287.00,6.490275598,Queens,Jackson Heights
+47_229.00,6.479334926,Brooklyn,Bedford Stuyvesant
+47_375.00,6.472304388,Brooklyn,Bedford Stuyvesant
+61_61.00,6.466512254,Manhattan,Union  Square
+61_180.00,6.461036404,Manhattan,Spanish Harlem
+47_437.00,6.445380322,Brooklyn,Bushwick
+61_99.00,6.44450675,Manhattan,West Chelsea / Highline District
+81_97.00,6.443503313,Queens,Steinway
+47_151.00,6.440958663,Brooklyn,Park Slope
+47_227.00,6.437147291,Brooklyn,Bedford Stuyvesant
+47_169.00,6.435519815,Brooklyn,Windsor Terrace
+61_187.00,6.423690566,Manhattan,Upper West Side
+61_140.00,6.404244612,Manhattan,Gold Coast - Upper East Side
+81_153.00,6.399968684,Queens,Astoria
+81_779.03,6.390882237,Queens,Kew Gardens Hills
+47_247.00,6.388831862,Brooklyn,Bedford Stuyvesant
+47_916.00,6.372583286,Brooklyn,Brownsville
+81_295.00,6.366271122,Queens,Woodside
+47_243.00,6.364928823,Brooklyn,Bedford Stuyvesant
+81_103.00,6.34789886,Queens,Steinway
+61_195.00,6.331774906,Manhattan,Morningside Heights
+47_325.00,6.329273694,Brooklyn,Prospect Lefferts Garden
+47_1122.00,6.328759689,Brooklyn,East New York
+47_343.00,6.327108181,Brooklyn,Crown Heights
+47_63.00,6.31916799,Brooklyn,Carroll Gardens
+61_151.00,6.287945434,Manhattan,Lincoln Square
+47_299.00,6.268842035,Brooklyn,Stuyvesant Heights
+81_147.00,6.26419832,Queens,Astoria
+47_373.00,6.261572251,Brooklyn,Ocean Hill
+47_47.00,6.258774718,Brooklyn,Columbia Street Waterfront District
+47_317.02,6.256656992,Brooklyn,Crown Heights
+47_120.00,6.255395315,Brooklyn,Sunset Park
+61_223.02,6.233361222,Manhattan,Manhattanville
+81_101.00,6.230894208,Queens,Steinway
+47_235.00,6.229032325,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+81_117.00,6.216210015,Queens,Steinway
+61_90.00,6.200600736,Manhattan,Turtle Bay
+47_1160.00,6.170271916,Brooklyn,East New York
+61_66.00,6.162680067,Manhattan,Grammercy
+81_565.00,6.160278511,Queens,Glendale
+47_149.00,6.154017256,Brooklyn,Park Slope
+81_1441.00,6.153879078,Queens,Bayside
+47_409.00,6.151578519,Brooklyn,Bushwick
+47_303.00,6.132658346,Brooklyn,Ocean Hill
+61_283.00,6.123383654,Manhattan,Inwood
+47_281.00,6.097256689,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+61_71.00,6.081799465,Manhattan,Greenwich Village
+47_127.00,6.066179619,Brooklyn,Boerum Hill
+47_339.00,6.058470298,Brooklyn,Crown Heights
+47_49.00,6.056333631,Brooklyn,Cobble Hill
+61_177.00,6.050207893,Manhattan,Upper West Side
+61_14.01,6.049723321,Manhattan,Lower East Side
+61_25.00,6.048480368,Manhattan,Chinatown
+81_788.00,6.043906265,Queens,South Jamaica
+61_225.00,6.038920582,Manhattan,Hamilton Heights
+81_185.00,6.038518587,Queens,Sunnyside
+47_1018.00,6.036902852,Brooklyn,Canarsie
+47_195.00,6.036613588,Brooklyn,Clinton Hill
+47_193.00,6.027879205,Brooklyn,Clinton Hill
+61_124.00,6.024769446,Manhattan,Midtown North
+61_125.00,6.012852756,Manhattan,Midtown
+47_443.00,6.009358607,Brooklyn,Bushwick
+47_51.00,5.993602845,Brooklyn,Columbia Street Waterfront District
+47_385.00,5.989742117,Brooklyn,Historic Bed-Stuy
+47_381.00,5.985220364,Brooklyn,Historic Bed-Stuy
+47_100.00,5.978770552,Brooklyn,Sunset Park
+61_86.00,5.977997291,Manhattan,United Nations 
+81_1171.00,5.97076891,Queens,Murray Hill (Queens)
+61_12.00,5.969257545,Manhattan,Lower East Side
+61_152.00,5.967111629,Manhattan,Yorkville
+47_327.00,5.965638601,Brooklyn,Prospect Lefferts Garden
+47_509.00,5.961200342,Brooklyn,South Williamsburg
+61_7.00,5.954563517,Manhattan,Financial District
+81_1123.00,5.953124308,Queens,Bayside
+47_13.00,5.944285191,Brooklyn,Downtown BK
+61_210.00,5.94248817,Manhattan,East Harlem
+61_236.00,5.933049107,Manhattan,Central Harlem ( Northof 125th)
+61_108.00,5.929574077,Manhattan,Turtle Bay
+61_199.00,5.898774613,Manhattan,Morningside Heights
+81_183.00,5.886406177,Queens,Sunnyside
+47_650.00,5.878665435,Brooklyn, Mill Basin
+47_142.00,5.878633556,Brooklyn,Bay Ridge
+47_31.00,5.857464231,Brooklyn,Fort Greene
+47_41.00,5.852286567,Brooklyn,Boerum Hill
+61_116.00,5.849850139,Manhattan,Midtown North
+81_35.00,5.841425995,Queens,Ravenswood / Queensbridge
+81_41.00,5.840296994,Queens,Ravenswood / Queensbridge
+61_183.00,5.839968095,Manhattan,Upper West Side
+61_50.00,5.834165297,Manhattan,Grammercy
+47_261.00,5.825986148,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+47_446.00,5.82488983,Brooklyn,Midwood
+47_157.00,5.812502491,Brooklyn,Park Slope
+47_345.00,5.807587337,Brooklyn,Weeksville
+47_143.00,5.807257897,Brooklyn,Greenwood
+61_106.02,5.804511053,Manhattan,Midtown North
+47_187.00,5.804084709,Brooklyn,Wallabout
+81_179.00,5.797775609,Queens,Long Island City
+61_160.02,5.789986475,Manhattan,Carnegie Hill
+61_156.02,5.78703372,Manhattan,Spanish Harlem
+61_239.00,5.785485687,Manhattan,Washington Heights
+47_301.00,5.780101835,Brooklyn,Stuyvesant Heights
+47_98.00,5.779830818,Brooklyn,Sunset Park
+47_383.00,5.774440554,Brooklyn,Historic Bed-Stuy
+47_363.00,5.772443623,Brooklyn,Ocean Hill
+61_31.00,5.763710865,Manhattan,Tribeca East
+61_147.00,5.759037755,Manhattan,Lincoln Square
+61_181.00,5.742715326,Manhattan,Upper West Side
+47_822.00,5.741018027,Brooklyn,Flatbush
+81_27.00,5.740790716,Queens,Long Island City
+81_163.00,5.739254485,Queens,Woodside
+47_287.00,5.73685882,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+47_387.00,5.708667131,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+47_399.00,5.707226285,Brooklyn,Bushwick
+81_113.00,5.703577766,Queens,Steinway
+47_982.00,5.68863183,Brooklyn,Canarsie
+47_267.00,5.683594745,Brooklyn,Historic Bed-Stuy
+81_79.00,5.681291098,Queens,Astoria
+47_319.00,5.676047995,Brooklyn,Prospect Lefferts Garden
+47_900.00,5.671840648,Brooklyn,Brownsville
+47_433.00,5.67012472,Brooklyn,Bushwick
+47_259.01,5.661877532,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+47_212.00,5.657180719,Brooklyn,Dyker Heights
+47_1148.00,5.656401445,Brooklyn,Cypress Hills
+47_395.00,5.650781482,Brooklyn,Bushwick
+47_1140.00,5.648485069,Brooklyn,Broadway Junction
+61_164.00,5.629171477,Manhattan,Spanish Harlem
+61_118.00,5.625479816,Manhattan,Midtown North
+61_202.00,5.623694824,Manhattan,East Harlem
+61_2.02,5.623444676,Manhattan,Lower East Side
+81_29.00,5.623434398,Queens,Long Island City
+61_204.00,5.623312102,Manhattan,East Harlem
+81_49.00,5.61689475,Queens,Long Island City
+47_283.00,5.614637245,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+61_174.02,5.603458015,Manhattan,Spanish Harlem
+81_257.00,5.600057088,Queens,Woodside
+81_657.02,5.595784249,Queens,Middle Village
+61_251.00,5.593140735,Manhattan,Washington Heights
+47_323.00,5.583608772,Brooklyn,Prospect Lefferts Garden
+61_114.02,5.580158814,Manhattan,Gold Coast - Upper East Side
+47_1130.00,5.549697858,Brooklyn,East New York
+61_245.00,5.540621006,Manhattan,Washington Heights
+47_155.00,5.535082776,Brooklyn,Park Slope
+61_128.00,5.53417414,Manhattan,Gold Coast - Upper East Side
+47_359.00,5.527289289,Brooklyn,Weeksville
+47_245.00,5.526646604,Brooklyn,Bedford Stuyvesant
+81_43.00,5.526507229,Queens,Ravenswood / Queensbridge
+81_251.00,5.520849408,Queens,Woodside
+81_143.00,5.513136806,Queens,Astoria
+81_119.00,5.508926603,Queens,Steinway
+81_121.00,5.479042581,Queens,Steinway
+47_423.00,5.475795715,Brooklyn,Bushwick
+47_141.00,5.469418673,Brooklyn,Park Slope
+47_273.00,5.461777348,Brooklyn,Historic Bed-Stuy
+61_88.00,5.460841091,Manhattan,United Nations 
+47_506.00,5.448512218,Brooklyn,Prospect Park South
+47_419.00,5.448227665,Brooklyn,Bushwick
+81_169.00,5.445978449,Queens,Sunnyside
+47_233.00,5.440970493,Brooklyn,Bedford Stuyvesant
+47_800.00,5.428440539,Brooklyn,Prospect Lefferts Garden
+47_582.00,5.424126502,Brooklyn,Sheepshead Bay
+61_58.00,5.414828524,Manhattan,Flatiron
+47_525.00,5.406919951,Brooklyn,Southside Williamsburg
+81_317.00,5.394240544,Queens,Astoria Heights
+61_219.00,5.39410055,Manhattan,Manhattanville
+47_108.00,5.388174494,Brooklyn,Sunset Park
+81_235.00,5.345745715,Queens,Sunnyside
+47_128.02,5.344945939,Brooklyn,Bay Ridge
+47_122.00,5.343189898,Brooklyn,Sunset Park
+47_1126.00,5.342956379,Brooklyn,East New York
+61_20.00,5.336409647,Manhattan,East Village
+47_96.00,5.333724411,Brooklyn,Sunset Park
+61_74.00,5.330231358,Manhattan,NoMad
+61_287.00,5.323458854,Manhattan,Inwood
+81_259.00,5.322133164,Queens,Woodside
+47_164.00,5.321105641,Brooklyn,Fort Hamilton
+47_71.00,5.315797493,Brooklyn,Boerum Hill
+47_101.00,5.312546442,Brooklyn,Greenwood
+61_198.00,5.307140063,Manhattan,East Harlem
+47_23.00,5.301280521,Brooklyn,Farragut
+81_779.01,5.284511872,Queens,Kew Gardens Hills
+47_537.00,5.275564695,Brooklyn,South Williamsburg
+47_820.00,5.26950675,Brooklyn,Flatbush
+81_73.00,5.268414213,Queens,Astoria
+47_520.00,5.262203995,Brooklyn,Ditmas Park
+47_516.00,5.261390538,Brooklyn,Ditmas Park
+47_421.00,5.260368118,Brooklyn,Bushwick
+61_241.00,5.228078836,Manhattan,Washington Heights
+47_2.00,5.217030641,Brooklyn,Bush Terminal / Industry City
+47_292.00,5.215749429,Brooklyn,Bath Beach
+47_56.02,5.211973343,Brooklyn,Bay Ridge
+47_844.00,5.21069121,Brooklyn,Farragut
+47_335.00,5.198173077,Brooklyn,Crown Heights South
+61_229.00,5.197067348,Manhattan,Hamilton Heights
+81_623.00,5.194897306,Queens,Glendale
+47_367.00,5.190026432,Brooklyn,Broadway Junction
+47_124.00,5.187620636,Brooklyn,Bay Ridge
+61_39.00,5.182235758,Manhattan,Tribeca
+47_84.00,5.154099153,Brooklyn,Sunset Park
+61_317.01,5.153589872,Manhattan,Battery Park City
+47_300.00,5.147406738,Brooklyn,Gravesend
+47_944.01,5.138594458,Brooklyn,Canarsie
+81_187.00,5.134060894,Queens,Sunnyside
+61_205.00,5.129761313,Manhattan,Morningside Heights
+61_255.00,5.114990834,Manhattan,Washington Heights
+47_58.00,5.112304363,Brooklyn,Bay Ridge
+47_78.00,5.109821231,Brooklyn,Sunset Park
+47_74.00,5.099777615,Brooklyn,Sunset Park
+81_659.00,5.094546531,Queens,Middle Village
+81_972.02,5.080620564,Queens,Arverne
+47_60.00,5.079089198,Brooklyn,Bay Ridge
+61_168.00,5.073336217,Manhattan,Carnegie Hill
+47_360.02,5.061927875,Brooklyn,Brighton Beach
+47_914.00,5.043663951,Brooklyn,Brownsville
+81_145.00,5.040207095,Queens,Astoria
+61_24.00,5.033641068,Manhattan,East Village
+81_553.00,5.032603007,Queens,Ridgewood
+47_297.00,5.023527412,Brooklyn,Historic Bed-Stuy
+47_904.00,5.022928231,Brooklyn,Brownsville
+47_189.00,5.022169679,Brooklyn,Wallabout
+47_162.00,5.021063875,Brooklyn,Bay Ridge
+47_794.00,5.012415035,Brooklyn,Flatbush
+47_796.00,5.004997228,Brooklyn,Prospect Lefferts Garden
+47_279.00,5.004275273,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+61_137.00,4.998799588,Manhattan,Midtown
+81_889.02,4.982784254,Queens,Flushing
+61_253.00,4.970685722,Manhattan,Washington Heights
+61_145.00,4.961372144,Manhattan,Lincoln Square
+47_1110.00,4.926135189,Brooklyn,East New York
+47_529.00,4.923409224,Brooklyn,South Williamsburg
+47_886.00,4.915117426,Brooklyn,East Flatbush
+81_45.00,4.90755365,Queens,Ravenswood / Queensbridge
+47_403.00,4.899071446,Brooklyn,Bushwick
+47_75.00,4.895755398,Brooklyn,Carroll Gardens
+47_1166.00,4.891458995,Brooklyn,East New York
+61_269.00,4.888500815,Manhattan,Washington Heights
+81_407.00,4.880163596,Queens,Corona
+47_52.01,4.877136603,Brooklyn,Bay Ridge
+61_160.01,4.876454604,Manhattan,Carnegie Hill
+81_493.01,4.875187553,Queens,Maspeth
+61_15.01,4.867716424,Manhattan,Financial District
+61_192.00,4.866704587,Manhattan,East Harlem
+47_1120.00,4.864619202,Brooklyn,East New York
+47_55.00,4.860746146,Brooklyn,Red Hook
+47_401.00,4.858068301,Brooklyn,Bushwick
+61_21.00,4.854173778,Manhattan,Tribeca
+61_2.01,4.848492219,Manhattan,Two Bridges
+61_174.01,4.838409663,Manhattan,Carnegie Hill
+47_484.00,4.826225752,Brooklyn,Kennsington
+81_559.00,4.823620048,Queens,Ridgewood
+47_80.00,4.81687529,Brooklyn,Sunset Park
+81_368.00,4.8142079,Queens,St. Albans
+81_779.05,4.810640473,Queens,Briarwood
+61_57.00,4.803845653,Manhattan,Greenwich Village
+81_111.00,4.794443854,Queens,Steinway
+47_1172.01,4.792798636,Brooklyn,Cypress Hills
+81_867.00,4.791325736,Queens,Flushing
+61_56.00,4.789545556,Manhattan,Flatiron
+47_57.00,4.783474898,Brooklyn,Red Hook
+61_112.01,4.783393711,Manhattan,Midtown
+47_102.00,4.780746992,Brooklyn,Sunset Park
+47_908.00,4.775567717,Brooklyn,Brownsville
+47_393.00,4.774728591,Brooklyn,Bushwick
+61_265.00,4.77462467,Manhattan,Washington Heights
+47_147.00,4.764320954,Brooklyn,Greenwood
+47_411.00,4.761668022,Brooklyn,Bushwick
+47_389.00,4.748264052,Brooklyn,Bushwick
+47_282.00,4.74470497,Brooklyn,Bath Beach
+47_397.00,4.740405412,Brooklyn,Bushwick
+81_779.04,4.727805354,Queens,Kew Gardens Hills
+47_90.00,4.726940214,Brooklyn,Sunset Park
+47_756.00,4.722336853,Brooklyn,Midwood
+47_257.00,4.720667855,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+47_289.00,4.718925785,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+61_285.00,4.716489304,Manhattan,Inwood
+81_697.01,4.704462634,Queens,Rego Park
+47_492.00,4.703834318,Brooklyn,Kennsington
+47_349.00,4.695014472,Brooklyn,Crown Heights South
+47_110.00,4.684709497,Brooklyn,Sunset Park
+61_261.00,4.675444351,Manhattan,Washington Heights
+81_555.00,4.660558836,Queens,Ridgewood
+47_194.00,4.65949581,Brooklyn,Dyker Heights
+47_1168.00,4.657336481,Brooklyn,Cypress Hills
+47_112.00,4.647463966,Brooklyn,Sunset Park
+47_1196.00,4.645229067,Brooklyn,East New York
+47_285.02,4.643110941,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+61_112.03,4.63660875,Manhattan,Midtown
+47_365.01,4.619547926,Brooklyn,Ocean Hill
+47_20.00,4.616832596,Brooklyn,Bush Terminal / Industry City
+61_303.00,4.610414219,Manhattan,Inwood
+81_83.00,4.606357138,Queens,Astoria
+81_581.00,4.598330482,Queens,Ridgewood
+47_263.00,4.597386905,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+81_248.00,4.595658617,Queens,Jamaica
+47_228.00,4.592349348,Brooklyn,Borough Park
+47_792.00,4.587009382,Brooklyn,Flatbush
+47_253.00,4.5848153,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+47_802.00,4.583391341,Brooklyn,Prospect Lefferts Garden
+47_333.00,4.570500888,Brooklyn,Crown Heights South
+47_1058.00,4.56932655,Brooklyn,Starrett City
+81_942.03,4.565428569,Queens,Rockaway Park / Seaside
+47_362.00,4.56357183,Brooklyn,Brighton Beach
+47_326.00,4.554365632,Brooklyn,Coney Island
+81_273.00,4.549067245,Queens,Jackson Heights
+47_432.00,4.548966356,Brooklyn,Bensonhurst
+61_186.00,4.547272914,Manhattan,Central Harlem ( South of 125th)
+81_252.00,4.528755031,Queens,Jamaica
+47_804.00,4.528474611,Brooklyn,Prospect Lefferts Garden
+81_271.00,4.517522727,Queens,Elmhurst
+47_878.00,4.499609401,Brooklyn,Wingate
+61_273.00,4.493808516,Manhattan,Washington Heights
+81_587.00,4.488386477,Queens,Ridgewood
+81_261.00,4.485063824,Queens,Woodside
+81_22.00,4.481898647,Queens,Woodhaven
+61_271.00,4.473517343,Manhattan,Washington Heights
+81_601.00,4.471483004,Queens,Maspeth
+47_610.01,4.463218165,Brooklyn,Brighton Beach
+81_547.00,4.461544817,Queens,Ridgewood
+47_371.00,4.452103211,Brooklyn,Ocean Hill
+47_255.00,4.45145624,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+47_70.00,4.4451409,Brooklyn,Bay Ridge
+47_369.00,4.441378891,Brooklyn,Ocean Hill
+61_275.00,4.434889112,Manhattan,Washington Heights
+81_591.00,4.431510734,Queens,Ridgewood
+61_293.00,4.430866107,Manhattan,Inwood
+81_136.00,4.427758646,Queens,Kew Gardens
+47_68.00,4.4182139,Brooklyn,Bay Ridge
+81_875.00,4.409743947,Queens,Flushing
+47_798.00,4.404501515,Brooklyn,Prospect Lefferts Garden
+61_149.00,4.402021724,Manhattan,Lincoln Square
+47_176.00,4.401282999,Brooklyn,Bath Beach
+47_1156.00,4.39948537,Brooklyn,East New York
+47_1178.00,4.39539738,Brooklyn,Cypress Hills
+81_934.00,4.381395525,Queens,Belle Harbor / Neponsit
+47_307.00,4.368764126,Brooklyn,Weeksville
+61_106.01,4.358208314,Manhattan,Turtle Bay
+81_745.00,4.355533486,Queens,Rego Park
+81_266.00,4.353474949,Queens,Jamaica
+47_435.00,4.348365176,Brooklyn,Bushwick
+47_896.00,4.344840939,Brooklyn,Brownsville
+81_625.00,4.334545077,Queens,Glendale
+81_557.00,4.332029661,Queens,Ridgewood
+47_262.00,4.331994598,Brooklyn,Bensonhurst
+47_1078.00,4.326565575,Brooklyn,East New York
+81_773.00,4.326098113,Queens,Kew Gardens
+47_1138.00,4.320010426,Brooklyn,Broadway Junction
+81_267.00,4.316915183,Queens,Elmhurst
+81_492.00,4.315383936,Queens,Jamaica Estates
+47_1194.00,4.301053826,Brooklyn,East New York
+47_1142.02,4.299523871,Brooklyn,Broadway Junction
+47_288.00,4.298830076,Brooklyn,Bath Beach
+47_286.00,4.289288301,Brooklyn,Bath Beach
+47_309.00,4.276134969,Brooklyn,Weeksville
+47_268.00,4.26335104,Brooklyn,Bensonhurst
+47_34.00,4.25456671,Brooklyn,Bay Ridge
+47_494.00,4.250390847,Brooklyn,Kennsington
+47_439.00,4.243861179,Brooklyn,Bushwick
+81_263.00,4.24004822,Queens,Woodside
+81_682.00,4.231444317,Queens,Laurelton
+47_64.00,4.227855568,Brooklyn,Bay Ridge
+81_865.00,4.226976123,Queens,Flushing
+47_136.00,4.216514799,Brooklyn,Bay Ridge
+81_205.02,4.215406658,Queens,Sunnyside Industrial
+81_297.00,4.214269328,Queens,Woodside
+47_938.00,4.212142406,Brooklyn,East Flatbush
+47_554.00,4.211332945,Brooklyn,Manhattan Terrace
+47_54.00,4.206371955,Brooklyn,Bay Ridge
+47_906.00,4.194991461,Brooklyn,Brownsville
+47_1186.00,4.18542667,Brooklyn,East New York
+47_104.00,4.182037505,Brooklyn,Sunset Park
+47_224.00,4.179713259,Brooklyn,Borough Park
+47_232.00,4.175573685,Brooklyn,Borough Park
+81_539.00,4.165472627,Queens,Ridgewood
+47_415.00,4.164658866,Brooklyn,Bushwick
+47_331.00,4.161795833,Brooklyn,Crown Heights South
+81_851.00,4.15554458,Queens,Flushing
+47_365.02,4.148031718,Brooklyn,Ocean Hill
+81_775.00,4.146009071,Queens,Kew Gardens
+47_508.00,4.1437159,Brooklyn,Prospect Park South
+61_162.00,4.140142009,Manhattan,Spanish Harlem
+47_173.00,4.137935281,Brooklyn,Windsor Terrace
+47_502.01,4.133759988,Brooklyn,Windsor Terrace
+61_130.00,4.132152942,Manhattan,Gold Coast - Upper East Side
+61_295.00,4.131153772,Manhattan,Inwood
+81_1551.01,4.131025102,Queens,Glen Oaks
+47_448.00,4.126878167,Brooklyn,Midwood
+47_786.00,4.120738245,Brooklyn,Flatbush
+47_892.00,4.119657103,Brooklyn,East Flatbush
+47_413.00,4.116495997,Brooklyn,Bushwick
+47_1034.00,4.109444802,Brooklyn,Canarsie
+81_739.00,4.108454426,Queens,Rego Park
+81_25.00,4.10594805,Queens,Ravenswood / Queensbridge
+81_205.01,4.101375302,Queens,Sunnyside Industrial
+47_180.00,4.10047649,Brooklyn,Bath Beach
+61_263.00,4.098085403,Manhattan,Washington Heights
+47_355.00,4.094507142,Brooklyn,Crown Heights South
+47_22.00,4.094325726,Brooklyn,Bush Terminal / Industry City
+47_130.00,4.089027458,Brooklyn,Bay Ridge
+47_271.02,4.088416937,Brooklyn,Stuyvesant Heights
+47_352.00,4.086059658,Brooklyn,Coney Island
+81_1529.02,4.07671004,Queens,Douglaston / Little Neck
+81_747.00,4.076126437,Queens,Rego Park
+81_809.00,4.071914234,Queens,Kew Gardens Hills
+47_186.00,4.071462794,Brooklyn,Bensonhurst
+47_213.00,4.068152467,Brooklyn,Prospect Lefferts Garden
+81_737.00,4.066035827,Queens,Forest Hills Gardens
+81_1227.02,4.05855111,Queens,Pomonok
+81_107.00,4.057664948,Queens,Steinway
+81_475.00,4.057029943,Queens,Elmhurst
+47_540.00,4.054590559,Brooklyn,Midwood
+47_536.00,4.054509274,Brooklyn,Midwood
+47_50.00,4.051909511,Brooklyn,Bay Ridge
+81_123.00,4.048801946,Queens,Steinway
+47_510.00,4.038214555,Brooklyn,Prospect Park South
+47_32.00,4.031109066,Brooklyn,Bay Ridge
+47_66.00,4.030460715,Brooklyn,Bay Ridge
+47_248.00,4.016541371,Brooklyn,Bensonhurst
+47_818.00,4.015201424,Brooklyn,Flatbush
+81_1463.00,4.013401698,Queens,Auburndale
+81_981.00,4.012843895,Queens,Whitestone
+61_243.02,4.00260951,Manhattan,Washington Heights
+81_465.00,4.001328638,Queens,Elmhurst
+81_291.00,3.999124329,Queens,Jackson Heights
+81_334.02,3.997062417,Queens,Rochdale
+47_414.02,3.993824835,Brooklyn,Homecrest
+47_171.00,3.990212658,Brooklyn,Windsor Terrace
+81_997.02,3.984521636,Queens,Bayside
+81_206.00,3.97656287,Queens,Jamaica
+47_890.00,3.970684166,Brooklyn,East Flatbush
+81_1291.01,3.963188966,Queens,Oakland Gardens
+47_30.00,3.944144147,Brooklyn,Bay Ridge
+61_307.00,3.937097183,Manhattan,Inwood
+47_271.01,3.933619749,Brooklyn,Stuyvesant Heights
+81_1185.00,3.925403794,Queens,East Flushing
+47_190.00,3.909743451,Brooklyn,Bensonhurst
+47_770.00,3.909132457,Brooklyn,Ditmas Park
+47_840.00,3.897358974,Brooklyn,Farragut
+47_295.00,3.885001935,Brooklyn,Historic Bed-Stuy
+47_405.00,3.884708907,Brooklyn,Bushwick
+81_455.00,3.876258773,Queens,Corona
+47_834.00,3.868402656,Brooklyn,Farragut
+81_593.00,3.866480526,Queens,Ridgewood
+81_907.00,3.864176138,Queens,College Point
+81_281.00,3.860432943,Queens,Jackson Heights
+47_280.00,3.84836024,Brooklyn,Bath Beach
+47_920.00,3.846366338,Brooklyn,Brownsville
+47_285.01,3.843853581,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+81_1129.00,3.841123412,Queens,Bayside
+47_1190.00,3.839527453,Brooklyn,East New York
+47_1200.00,3.83093562,Brooklyn,East New York
+61_267.00,3.816496932,Manhattan,Washington Heights
+81_711.00,3.791635275,Queens,Forest Hills Gardens
+81_629.00,3.791217272,Queens,Glendale
+47_512.00,3.790168288,Brooklyn,Prospect Park South
+47_502.02,3.790156112,Brooklyn,Windsor Terrace
+47_738.00,3.787651138,Brooklyn,Flatlands
+47_284.00,3.787635448,Brooklyn,Bath Beach
+47_862.00,3.776919387,Brooklyn,East Flatbush
+81_283.00,3.770162639,Queens,Jackson Heights
+47_200.00,3.770121199,Brooklyn,Dyker Heights
+47_970.00,3.769419958,Brooklyn,Canarsie
+81_62.00,3.758289582,Queens,Lindenwood
+81_134.00,3.744199915,Queens,Kew Gardens
+81_657.01,3.742293655,Queens,Middle Village
+47_824.00,3.732748857,Brooklyn,Flatbush
+81_618.00,3.726961107,Queens,Laurelton
+81_214.00,3.717749527,Queens,Briarwood
+47_1118.00,3.705447529,Brooklyn,East New York
+47_252.00,3.701710604,Brooklyn,Bensonhurst
+47_422.00,3.699013987,Brooklyn,Homecrest
+81_713.02,3.697492559,Queens,Rego Park
+47_522.00,3.696939278,Brooklyn,Prospect Park South
+47_524.00,3.696034718,Brooklyn,Prospect Park South
+47_1152.00,3.691970212,Brooklyn,East New York
+47_426.00,3.68308552,Brooklyn,Gravesend
+81_991.00,3.671514599,Queens,Whitestone
+81_216.00,3.67120701,Queens,Kew Gardens
+47_686.00,3.670159527,Brooklyn, Mill Basin
+81_264.00,3.656255248,Queens,Jamaica
+81_757.00,3.647144971,Queens,Rego Park
+81_1507.02,3.644224369,Queens,Douglaston / Little Neck
+81_655.00,3.643678109,Queens,Middle Village
+81_693.00,3.64110978,Queens,Rego Park
+47_94.00,3.635940036,Brooklyn,Sunset Park
+81_1551.02,3.634001977,Queens,Glen Oaks
+47_944.02,3.629427353,Brooklyn,Canarsie
+81_500.00,3.623262218,Queens,Hollis
+47_552.00,3.619246786,Brooklyn,Manhattan Terrace
+47_216.00,3.618548679,Brooklyn,Borough Park
+61_142.00,3.617813098,Manhattan,Gold Coast - Upper East Side
+47_880.00,3.612717071,Brooklyn,Wingate
+47_210.00,3.611017889,Brooklyn,Dyker Heights
+47_76.00,3.586416382,Brooklyn,Sunset Park
+81_1139.00,3.584895094,Queens,Auburndale
+81_717.00,3.584760729,Queens,Rego Park
+47_776.00,3.58202249,Brooklyn,Flatlands
+47_816.00,3.581003735,Brooklyn,East Flatbush
+81_863.00,3.579058439,Queens,Murray Hill (Queens)
+47_586.00,3.578804371,Brooklyn,Sheepshead Bay
+81_938.00,3.577116449,Queens,Rockaway Park / Seaside
+81_616.02,3.571152884,Queens,Rosedale
+47_902.00,3.567214166,Brooklyn,Brownsville
+47_416.00,3.566391386,Brooklyn,Sheepshead Bay
+81_269.00,3.565082902,Queens,Elmhurst
+81_220.02,3.54759671,Queens,Briarwood
+81_695.00,3.542602265,Queens,Rego Park
+47_550.00,3.53840305,Brooklyn,Manhattan Terrace
+81_464.00,3.535683755,Queens,Jamaica Estates
+47_922.00,3.534571617,Brooklyn,Brownsville
+81_769.01,3.528874044,Queens,Forest Hills Gardens
+47_1220.00,3.52587515,Brooklyn,East New York
+81_1097.00,3.524399677,Queens,Bayside
+81_138.00,3.522741143,Queens,Kew Gardens
+47_114.00,3.516675474,Brooklyn,Sunset Park
+47_600.00,3.513329438,Brooklyn,Sheepshead Bay
+47_790.00,3.51332156,Brooklyn,Flatbush
+47_784.00,3.509653981,Brooklyn,Farragut
+47_868.00,3.506347192,Brooklyn,East Flatbush
+81_721.00,3.501384849,Queens,Rego Park
+47_192.00,3.499409328,Brooklyn,Borough Park
+47_406.00,3.497724492,Brooklyn,Gravesend
+61_10.02,3.49510902,Manhattan,Lower East Side
+47_258.00,3.494042835,Brooklyn,Bensonhurst
+47_580.00,3.493628611,Brooklyn,Sheepshead Bay
+81_401.00,3.492529985,Queens,Corona
+81_58.00,3.490175741,Queens,Ozone Park
+47_888.00,3.483581414,Brooklyn,East Flatbush
+47_412.00,3.482229112,Brooklyn,Gravesend
+47_52.02,3.477002149,Brooklyn,Bay Ridge
+61_291.00,3.475747626,Manhattan,Inwood
+47_158.00,3.475668453,Brooklyn,Dyker Heights
+47_156.00,3.473587719,Brooklyn,Dyker Heights
+47_1182.02,3.465895246,Brooklyn,Cypress Hills
+81_661.00,3.463963772,Queens,Middle Village
+81_925.00,3.462391449,Queens,College Point
+47_546.00,3.459902002,Brooklyn,Midwood
+47_654.00,3.457840495,Brooklyn,Marine Park
+47_276.00,3.451977278,Brooklyn,Bensonhurst
+47_342.00,3.448377208,Brooklyn,Coney Island
+81_633.02,3.444893823,Queens,Middle Village
+47_396.00,3.428293911,Brooklyn,Homecrest
+81_137.00,3.427116739,Queens,Astoria Heights
+47_558.00,3.424955555,Brooklyn,Manhattan Terrace
+81_679.00,3.421688651,Queens,Middle Village
+81_454.00,3.421457207,Queens,Jamaica hills
+47_128.01,3.421159094,Brooklyn,Dyker Heights
+47_160.00,3.409744114,Brooklyn,Bay Ridge
+81_132.00,3.407311885,Queens,Kew Gardens
+81_741.00,3.405888502,Queens,Rego Park
+81_1163.00,3.400930965,Queens,Murray Hill (Queens)
+81_243.00,3.400229432,Queens,Elmhurst
+81_998.00,3.393203955,Queens,Edgemere
+47_535.00,3.382867221,Brooklyn,South Williamsburg
+47_858.00,3.376843312,Brooklyn,East Flatbush
+81_236.00,3.371019744,Queens,Briarwood
+81_40.02,3.367931646,Queens,Ozone Park
+47_62.00,3.36542429,Brooklyn,Bay Ridge
+47_238.00,3.364312342,Brooklyn,Borough Park
+47_860.00,3.363035198,Brooklyn,East Flatbush
+81_1191.00,3.361058757,Queens,East Flushing
+47_277.00,3.359824857,Brooklyn,Bedford Stuyvesant
+81_1227.01,3.351553331,Queens,Pomonok
+47_782.00,3.347786307,Brooklyn,Farragut
+81_654.00,3.335503333,Queens,Rosedale
+47_894.00,3.335258935,Brooklyn,Brownsville
+81_855.00,3.331093114,Queens,Flushing
+81_489.00,3.32362885,Queens,Elmhurst
+61_247.00,3.317103334,Manhattan,Washington Heights
+81_599.00,3.310866321,Queens,Maspeth
+47_118.00,3.308814337,Brooklyn,Sunset Park
+81_713.01,3.30736653,Queens,Rego Park
+47_360.01,3.293094067,Brooklyn,Brighton Beach
+81_552.00,3.281499449,Queens,Queens Village
+47_474.00,3.2772647,Brooklyn,Borough Park
+81_506.00,3.276806102,Queens,St. Albans
+47_530.00,3.274907247,Brooklyn,Midwood
+81_508.00,3.269958525,Queens,Hollis
+61_120.00,3.267190169,Manhattan,Gold Coast - Upper East Side
+47_56.01,3.266306557,Brooklyn,Bay Ridge
+81_680.00,3.25774921,Queens,Brookville
+47_826.00,3.256292178,Brooklyn,Flatbush
+47_828.00,3.255487677,Brooklyn,Flatbush
+47_436.00,3.254629191,Brooklyn,Bensonhurst
+47_856.00,3.25280184,Brooklyn,East Flatbush
+81_603.00,3.248212329,Queens,Maspeth
+47_366.00,3.247240114,Brooklyn,Brighton Beach
+47_1150.00,3.236515596,Brooklyn,East New York
+47_230.00,3.23446304,Brooklyn,Borough Park
+81_212.00,3.232498873,Queens,Jamaica
+81_409.00,3.216303446,Queens,Corona
+81_719.00,3.213960346,Queens,Rego Park
+47_1024.00,3.213908693,Brooklyn,Canarsie
+47_608.00,3.210264195,Brooklyn,Sheepshead Bay
+47_870.00,3.209572252,Brooklyn,East Flatbush
+47_876.00,3.209115145,Brooklyn,Wingate
+81_583.00,3.208349694,Queens,Ridgewood
+47_728.00,3.203066181,Brooklyn,Flatlands
+47_148.00,3.201045177,Brooklyn,Dyker Heights
+47_810.00,3.199460784,Brooklyn,Wingate
+81_507.00,3.18665148,Queens,Middle Village
+81_279.00,3.184312631,Queens,Jackson Heights
+81_189.00,3.182841247,Queens,Long Island City
+81_1175.00,3.178732475,Queens,Murray Hill (Queens)
+47_116.00,3.174895344,Brooklyn,Sunset Park
+47_622.00,3.174763925,Brooklyn,Sheepshead Bay
+47_766.00,3.173800029,Brooklyn,Ditmas Park
+47_534.00,3.173503943,Brooklyn,Midwood
+81_245.00,3.173164076,Queens,Woodside
+81_220.01,3.166577937,Queens,Briarwood
+47_762.00,3.166402893,Brooklyn,Midwood
+47_132.00,3.152690146,Brooklyn,Dyker Heights
+81_665.00,3.151493282,Queens,Middle Village
+81_399.00,3.150313623,Queens,Corona
+47_430.00,3.145658721,Brooklyn,Bensonhurst
+81_595.00,3.145478362,Queens,Ridgewood
+47_1170.00,3.137306517,Brooklyn,Cypress Hills
+81_779.02,3.133266858,Queens,Kew Gardens Hills
+47_884.00,3.12986006,Brooklyn,East Flatbush
+81_282.00,3.129335173,Queens,St. Albans
+81_1133.00,3.129306874,Queens,Auburndale
+81_87.00,3.122686688,Queens,Astoria
+81_633.01,3.118061477,Queens,Middle Village
+81_140.00,3.110101569,Queens,Kew Gardens
+81_1265.00,3.10761485,Queens,Hillcrest
+81_459.00,3.105573899,Queens,Elmhurst
+81_1257.00,3.105028646,Queens,Kew Gardens Hills
+81_690.00,3.104149242,Queens,Brookville
+81_585.00,3.091057053,Queens,Ridgewood
+47_320.00,3.089132651,Brooklyn,Gravesend
+47_1188.00,3.088251858,Brooklyn,East New York
+47_1098.00,3.085121575,Brooklyn,Canarsie
+81_471.00,3.083903122,Queens,Elmhurst
+47_940.00,3.080487007,Brooklyn,East Flatbush
+47_942.00,3.080487007,Brooklyn,East Flatbush
+81_687.00,3.079336828,Queens,Rego Park
+61_277.00,3.076977957,Manhattan,Washington Heights
+81_803.02,3.076777417,Queens,Kissena Park South
+81_126.02,3.07457389,Queens,Richmond Hill
+81_639.00,3.069716132,Queens,Middle Village
+61_279.00,3.068690978,Manhattan,Washington Heights
+81_1099.00,3.060964705,Queens,Auburndale
+47_1146.00,3.058388979,Brooklyn,Cypress Hills
+47_760.00,3.057148845,Brooklyn,Midwood
+47_736.00,3.054687058,Brooklyn,Flatlands
+47_806.00,3.051981577,Brooklyn,Wingate
+47_968.00,3.044732927,Brooklyn,Canarsie
+81_577.00,3.043311045,Queens,Glendale
+81_44.02,3.036000357,Queens,Lindenwood
+47_480.00,3.028423182,Brooklyn,Kennsington
+81_232.00,3.020962933,Queens,Briarwood
+47_296.00,3.009905435,Brooklyn,Gravesend
+47_489.00,3.009484762,Brooklyn,East Williamsburg
+47_294.00,3.008306793,Brooklyn,Gravesend
+81_1617.00,3.008093549,Queens,Bellerose / Floral Park
+47_496.00,3.003098516,Brooklyn,Kennsington
+81_289.00,3.002105412,Queens,Jackson Heights
+81_458.00,3.00139371,Queens,Jamaica Estates
+81_377.00,2.996673063,Queens,Corona
+81_947.00,2.995608784,Queens,College Point
+47_1106.00,2.990615356,Brooklyn,East New York
+81_939.00,2.989151126,Queens,College Point
+47_298.00,2.980286158,Brooklyn,Gravesend
+81_845.00,2.96988357,Queens,Flushing
+81_997.01,2.968473735,Queens,Clearview
+81_1029.00,2.967953259,Queens,Bowne Park
+81_568.00,2.965731054,Queens,Queens Village
+81_1032.01,2.964016833,Queens,Baywater
+81_942.02,2.964015534,Queens,Rockaway Park / Seaside
+81_871.00,2.96269817,Queens,Flushing
+47_772.00,2.962416329,Brooklyn,Ditmas Park
+47_250.00,2.960174948,Brooklyn,Bensonhurst
+47_740.00,2.958118694,Brooklyn,Flatlands
+47_1142.01,2.954829108,Brooklyn,Broadway Junction
+47_260.00,2.95319749,Brooklyn,Bensonhurst
+47_440.00,2.949902371,Brooklyn,Midwood
+81_1571.02,2.94505915,Queens,Bellerose / Floral Park
+47_476.00,2.936482813,Brooklyn,Borough Park
+47_526.00,2.930915612,Brooklyn,Ditmas Park
+47_544.00,2.912539333,Brooklyn,Midwood
+47_240.00,2.904532932,Brooklyn,Borough Park
+47_348.02,2.903991573,Brooklyn,Coney Island
+47_348.01,2.902778808,Brooklyn,Coney Island
+47_400.00,2.900362353,Brooklyn,Gravesend
+47_514.00,2.896270135,Brooklyn,Ditmas Park
+81_255.00,2.895346253,Queens,Woodside
+81_128.00,2.891387001,Queens,Richmond Hill
+81_669.00,2.888182932,Queens,Middle Village
+47_306.00,2.886163719,Brooklyn,Gravesend
+47_428.00,2.885089147,Brooklyn,Gravesend
+81_483.00,2.884534287,Queens,Elmhurst
+81_524.00,2.882600496,Queens,St. Albans
+47_998.00,2.881033267,Brooklyn,Canarsie
+81_366.00,2.880413865,Queens,St. Albans
+81_14.00,2.879077523,Queens,Woodhaven
+81_275.00,2.878400886,Queens,Jackson Heights
+47_450.00,2.873348015,Brooklyn,Midwood
+47_814.00,2.869344267,Brooklyn,East Flatbush
+81_797.00,2.869272541,Queens,Flushing
+47_748.00,2.867064902,Brooklyn,Midwood
+47_336.00,2.857653783,Brooklyn,Seagate
+47_218.00,2.854955352,Brooklyn,Borough Park
+47_220.00,2.854605748,Brooklyn,Borough Park
+81_309.01,2.85140902,Queens,Jackson Heights
+47_1176.02,2.846055975,Brooklyn,Cypress Hills
+47_424.00,2.845989632,Brooklyn,Gravesend
+81_846.01,2.844593182,Queens,South Ozone Park
+47_134.00,2.84120986,Brooklyn,Bay Ridge
+47_1022.00,2.837659765,Brooklyn,Canarsie
+81_627.00,2.837599467,Queens,Glendale
+81_683.00,2.833593635,Queens,Elmhurst
+47_178.00,2.830826972,Brooklyn,Bath Beach
+47_374.00,2.826093127,Brooklyn,Gravesend
+81_535.00,2.823594856,Queens,Maspeth
+81_1451.02,2.823177389,Queens,Auburndale
+47_456.00,2.82099779,Brooklyn,Midwood
+47_204.00,2.8187221,Brooklyn,Dyker Heights
+47_418.00,2.8133024,Brooklyn,Sheepshead Bay
+47_394.00,2.80734252,Brooklyn,Homecrest
+61_281.00,2.794983084,Manhattan,Washington Heights
+47_350.00,2.790855107,Brooklyn,Coney Island
+81_884.00,2.790567824,Queens,Howard Beach
+81_607.00,2.781948749,Queens,Maspeth
+47_290.00,2.781353493,Brooklyn,Bath Beach
+47_340.00,2.776048498,Brooklyn,Coney Island
+47_1210.00,2.769032095,Brooklyn,East New York
+47_850.00,2.757969573,Brooklyn,Farragut
+81_190.00,2.757300028,Queens,South Jamaica
+81_1367.00,2.757137461,Queens,Oakland Gardens
+81_516.00,2.751308919,Queens,Queens Village
+81_1435.00,2.745345553,Queens,Bayside
+81_645.00,2.737308079,Queens,Forest Hills
+47_488.00,2.729436341,Brooklyn,Kennsington
+81_641.01,2.728917829,Queens,Woodhaven
+47_434.00,2.718176109,Brooklyn,Bensonhurst
+47_1112.00,2.713522925,Brooklyn,East New York
+47_848.00,2.713111693,Brooklyn,East Flatbush
+47_1114.00,2.712951917,Brooklyn,East New York
+81_637.00,2.709757658,Queens,Middle Village
+47_408.00,2.703887934,Brooklyn,Gravesend
+47_259.02,2.7021795,Brooklyn,Bedford Stuyvesant  North / Tompkins Park North
+47_545.00,2.697624983,Brooklyn,South Williamsburg
+47_533.00,2.697443618,Brooklyn,South Williamsburg
+81_635.00,2.696872505,Queens,Middle Village
+47_556.00,2.685116279,Brooklyn,Manhattan Terrace
+47_222.00,2.683490625,Brooklyn,Borough Park
+61_112.02,2.6760957,Manhattan,Midtown
+81_330.00,2.673787177,Queens,Rochdale
+81_1161.00,2.668535285,Queens,Flushing
+81_375.00,2.666842913,Queens,Corona
+81_532.00,2.662875689,Queens,St. Albans
+81_485.00,2.658348981,Queens,Elmhurst
+47_36.00,2.652973823,Brooklyn,Bay Ridge
+81_1159.00,2.65119831,Queens,Murray Hill (Queens)
+81_184.01,2.648041598,Queens,South Jamaica
+47_638.00,2.646673126,Brooklyn,Gerritsen Beach
+81_467.00,2.645242107,Queens,Elmhurst
+47_438.00,2.642269971,Brooklyn,Midwood
+47_314.00,2.640670213,Brooklyn,Gravesend
+81_381.00,2.635058498,Queens,Corona
+47_274.00,2.625594402,Brooklyn,Bensonhurst
+81_1039.00,2.623154255,Queens,Bowne Park
+47_592.00,2.61622847,Brooklyn,Sheepshead Bay
+47_234.00,2.61008756,Brooklyn,Borough Park
+81_766.00,2.605474828,Queens,Springfield Gardens
+47_974.00,2.603804053,Brooklyn,Canarsie
+81_304.00,2.597685039,Queens,Springfield Gardens
+81_916.01,2.595583311,Queens,Breezy Point
+81_799.00,2.594842897,Queens,Kissena Park South
+47_596.00,2.593604083,Brooklyn,Sheepshead Bay
+47_402.00,2.590653629,Brooklyn,Gravesend
+47_1214.00,2.587187491,Brooklyn,East New York
+47_106.00,2.581621329,Brooklyn,Sunset Park
+47_830.00,2.580175378,Brooklyn,Flatbush
+47_1102.00,2.579850696,Brooklyn,East New York
+81_1447.00,2.578366141,Queens,Bayside
+81_580.00,2.577627484,Queens,Queens Village
+47_1208.00,2.576560338,Brooklyn,East New York
+47_788.00,2.575605375,Brooklyn,Flatbush
+47_590.00,2.573786702,Brooklyn,Sheepshead Bay
+47_614.00,2.570332752,Brooklyn,Manhattan Beach
+81_246.00,2.569744585,Queens,Jamaica
+47_648.00,2.569556083,Brooklyn,Marine Park
+47_618.00,2.568946753,Brooklyn,Manhattan Beach
+81_1377.00,2.568292803,Queens,Oakland Gardens
+81_620.00,2.566740868,Queens,Laurelton
+47_562.00,2.565698874,Brooklyn,Manhattan Terrace
+47_872.00,2.564675885,Brooklyn,East Flatbush
+81_410.00,2.561541462,Queens,Jamaica
+47_382.00,2.556191034,Brooklyn,Gravesend
+81_517.00,2.555964892,Queens,Maspeth
+81_769.02,2.554984537,Queens,Forest Hills Gardens
+81_1010.01,2.554446228,Queens,Far Rockaway
+47_500.00,2.553725475,Brooklyn,Windsor Terrace
+81_1207.00,2.545301192,Queens,East Flushing
+81_1579.03,2.538016451,Queens,New Hyde Park
+47_742.00,2.536882069,Brooklyn,Flatlands
+47_866.00,2.52571545,Brooklyn,East Flatbush
+81_1579.01,2.523616978,Queens,New Hyde Park
+81_278.00,2.519833498,Queens,South Jamaica
+47_370.00,2.519461832,Brooklyn,Sheepshead Bay
+81_889.01,2.514590365,Queens,Flushing
+81_929.00,2.513743281,Queens,College Point
+81_608.00,2.510228733,Queens,Cambria Heights
+61_114.01,2.50714526,Manhattan,Gold Coast - Upper East Side
+47_518.00,2.507030201,Brooklyn,Ditmas Park
+81_88.00,2.503509044,Queens,Ozone Park
+47_542.00,2.499152076,Brooklyn,Midwood
+47_780.00,2.498726773,Brooklyn,Farragut
+81_972.01,2.498352274,Queens,Arverne
+47_364.00,2.494957898,Brooklyn,Brighton Beach
+81_536.00,2.492742445,Queens,Queens Village
+61_102.00,2.490887793,Manhattan,Midtown
+47_644.00,2.484333306,Brooklyn,Marine Park
+47_568.00,2.483868954,Brooklyn,Marine Park
+81_942.01,2.483556887,Queens,Rockaway Park / Seaside
+47_572.00,2.482549582,Brooklyn,Sheepshead Bay
+81_240.00,2.479806256,Queens,Jamaica
+81_442.00,2.476199839,Queens,Jamaica
+47_936.00,2.473668378,Brooklyn,East Flatbush
+81_1047.00,2.470442895,Queens,Bowne Park
+47_1100.00,2.469887611,Brooklyn,East New York
+47_256.00,2.465484462,Brooklyn,Bensonhurst
+81_30.00,2.463922555,Queens,Woodhaven
+81_446.01,2.46346247,Queens,Jamaica
+47_498.00,2.459240238,Brooklyn,Kennsington
+81_677.00,2.458616077,Queens,Middle Village
+81_602.00,2.454776536,Queens,Cambria Heights
+81_135.00,2.45448463,Queens,Astoria Heights
+47_198.00,2.450865691,Brooklyn,Dyker Heights
+81_446.02,2.449563726,Queens,Jamaica hills
+81_479.00,2.448415777,Queens,Elmhurst
+81_604.00,2.446056871,Queens,Cambria Heights
+47_958.00,2.440898179,Brooklyn,Canarsie
+81_578.00,2.440194564,Queens,Queens Village
+81_525.00,2.431064035,Queens,Maspeth
+47_254.00,2.42995932,Brooklyn,Bensonhurst
+81_1201.00,2.427349765,Queens,East Flushing
+47_208.00,2.425819508,Brooklyn,Dyker Heights
+81_694.00,2.42203316,Queens,Brookville
+81_1529.01,2.420966991,Queens,Douglaston / Little Neck
+81_638.00,2.420711243,Queens,Rosedale
+81_247.00,2.413447781,Queens,Woodside
+47_138.00,2.411838658,Brooklyn,Bay Ridge
+47_1012.00,2.406722232,Brooklyn,Canarsie
+47_504.00,2.405519837,Brooklyn,Windsor Terrace
+81_743.00,2.400885589,Queens,Rego Park
+47_392.00,2.391438734,Brooklyn,Sheepshead Bay
+81_567.00,2.388541804,Queens,Glendale
+47_168.00,2.388053606,Brooklyn,Bath Beach
+81_663.00,2.377909812,Queens,Middle Village
+47_272.00,2.377764288,Brooklyn,Bensonhurst
+81_1141.00,2.375595276,Queens,Murray Hill (Queens)
+81_1181.00,2.374051093,Queens,Auburndale
+81_1010.02,2.37317463,Queens,Far Rockaway
+47_236.00,2.370719012,Brooklyn,Borough Park
+81_511.00,2.370171096,Queens,Maspeth
+47_206.00,2.369929552,Brooklyn,Dyker Heights
+81_52.00,2.368841982,Queens,Ozone Park
+81_621.00,2.366678932,Queens,Middle Village
+81_384.00,2.362012713,Queens,St. Albans
+47_702.02,2.360466988,Brooklyn, Mill Basin
+47_720.00,2.360148609,Brooklyn,Flatlands
+47_724.00,2.353743248,Brooklyn,Flatlands
+81_288.00,2.350206166,Queens,South Jamaica
+47_490.00,2.349412153,Brooklyn,Kennsington
+81_198.00,2.34561849,Queens,Jamaica
+81_588.00,2.343778627,Queens,Queens Village
+47_642.00,2.337056433,Brooklyn,Manhattan Terrace
+47_774.00,2.336929205,Brooklyn,Ditmas Park
+47_264.00,2.335130603,Brooklyn,Bensonhurst
+47_538.00,2.33082588,Brooklyn,Midwood
+81_1301.00,2.329597532,Queens,Bellerose / Floral Park
+81_334.01,2.329579015,Queens,St. Albans
+47_528.00,2.324792856,Brooklyn,Ditmas Park
+47_764.00,2.323525493,Brooklyn,Ditmas Park
+47_1154.00,2.321432723,Brooklyn,East New York
+81_1507.01,2.321384983,Queens,Douglaston / Little Neck
+47_1136.00,2.318363857,Brooklyn,East New York
+47_988.00,2.309774146,Brooklyn,Canarsie
+47_482.00,2.300993189,Brooklyn,Kennsington
+47_398.00,2.296941083,Brooklyn,Homecrest
+81_792.00,2.296782719,Queens,South Jamaica
+81_697.02,2.296430019,Queens,Rego Park
+81_186.00,2.294714792,Queens,South Jamaica
+81_1113.00,2.29088257,Queens,Bayside
+47_1182.01,2.287693444,Brooklyn,Cypress Hills
+47_1162.00,2.28606515,Brooklyn,East New York
+81_1017.00,2.28300199,Queens,Clearview
+81_472.00,2.277325744,Queens,Jamaica Estates
+47_539.00,2.274322791,Brooklyn,South Williamsburg
+47_1158.00,2.264760335,Brooklyn,East New York
+81_1621.00,2.264425671,Queens,Bellerose / Floral Park
+47_308.00,2.263147103,Brooklyn,Gravesend
+81_590.00,2.25803818,Queens,Cambria Heights
+47_1192.00,2.255032551,Brooklyn,East New York
+47_404.00,2.254800402,Brooklyn,Gravesend
+81_481.00,2.253232321,Queens,Elmhurst
+47_329.00,2.24825629,Brooklyn,Prospect Lefferts Garden
+47_950.00,2.245738935,Brooklyn,Canarsie
+81_118.00,2.239089569,Queens,South Richmond Hill
+81_1479.00,2.238543843,Queens,Douglaston / Little Neck
+81_180.00,2.237779973,Queens,South Ozone Park
+81_1483.00,2.234964806,Queens,Douglaston / Little Neck
+47_460.01,2.234642779,Brooklyn,Kennsington
+81_1193.00,2.234163974,Queens,East Flushing
+47_460.02,2.232577279,Brooklyn,Ditmas Park
+81_440.00,2.230865761,Queens,Jamaica
+81_443.00,2.227609113,Queens,Corona
+81_987.00,2.225962394,Queens,Whitestone
+81_272.00,2.221651996,Queens,South Jamaica
+47_548.00,2.220542465,Brooklyn,Manhattan Terrace
+47_874.01,2.215162556,Brooklyn,Wingate
+47_462.02,2.211771256,Brooklyn,Midwood
+81_859.00,2.209198851,Queens,East Flushing
+81_277.00,2.208597571,Queens,Jackson Heights
+47_898.00,2.208051818,Brooklyn,Brownsville
+47_1128.00,2.205662,Brooklyn,East New York
+47_594.01,2.201121259,Brooklyn,Sheepshead Bay
+81_81.00,2.199588992,Queens,Astoria
+47_532.00,2.199158648,Brooklyn,Midwood
+81_499.00,2.196520177,Queens,Elmhurst
+47_182.00,2.189988145,Brooklyn,Bensonhurst
+47_854.00,2.189944562,Brooklyn,Farragut
+81_238.00,2.189911249,Queens,Briarwood
+81_864.00,2.184925153,Queens,Aqueduct
+47_628.00,2.180259737,Brooklyn,Gerritsen Beach
+81_592.00,2.175638053,Queens,Cambria Heights
+81_505.00,2.173187757,Queens,Middle Village
+81_355.00,2.16829208,Queens,East Elmhurst
+81_369.00,2.16829208,Queens,East Elmhurst
+81_510.00,2.168241945,Queens,Hollis
+81_473.00,2.165392661,Queens,Elmhurst
+61_150.02,2.164402296,Manhattan,Carnegie Hill
+81_709.00,2.163218024,Queens,Forest Hills Gardens
+47_680.00,2.160766162,Brooklyn, Mill Basin
+47_842.00,2.157521758,Brooklyn,Farragut
+81_1155.00,2.155867726,Queens,Murray Hill (Queens)
+47_1124.00,2.155781256,Brooklyn,East New York
+47_226.00,2.153208261,Brooklyn,Borough Park
+47_560.00,2.148996833,Brooklyn,Manhattan Terrace
+47_698.00,2.14542052,Brooklyn, Mill Basin
+47_696.00,2.143842677,Brooklyn, Mill Basin
+81_522.00,2.142385956,Queens,St. Albans
+47_750.00,2.140819014,Brooklyn,Midwood
+47_564.00,2.140134972,Brooklyn,Marine Park
+81_422.00,2.137585188,Queens,St. Albans
+47_934.00,2.13651213,Brooklyn,East Flatbush
+81_853.00,2.131659341,Queens,Flushing
+81_420.00,2.129837734,Queens,St. Albans
+47_992.00,2.129186897,Brooklyn,Canarsie
+81_495.00,2.125657856,Queens,Maspeth
+47_734.00,2.125293396,Brooklyn,Flatlands
+47_356.00,2.114742182,Brooklyn,Coney Island
+81_328.00,2.10828467,Queens,Rochdale
+47_266.00,2.104889163,Brooklyn,Bensonhurst
+47_454.00,2.090227605,Brooklyn,Midwood
+47_882.00,2.082344192,Brooklyn,East Flatbush
+81_619.00,2.081271487,Queens,Middle Village
+81_1567.00,2.079954543,Queens,Bellerose / Floral Park
+47_464.00,2.072013376,Brooklyn,Borough Park
+81_667.00,2.070978731,Queens,Maspeth
+47_38.00,2.069627021,Brooklyn,Bay Ridge
+47_172.00,2.06741116,Brooklyn,Bath Beach
+47_594.02,2.063725848,Brooklyn,Sheepshead Bay
+81_413.00,2.062158595,Queens,Corona
+47_330.00,2.059240002,Brooklyn,Coney Island
+81_367.00,2.05181762,Queens,East Elmhurst
+81_108.00,2.051439836,Queens,South Richmond Hill
+81_262.00,2.051044466,Queens,Jamaica
+47_962.00,2.050613487,Brooklyn,Canarsie
+47_690.00,2.049116547,Brooklyn, Mill Basin
+81_521.00,2.04910905,Queens,Maspeth
+47_1174.00,2.047129058,Brooklyn,Cypress Hills
+47_574.00,2.045059326,Brooklyn,Sheepshead Bay
+81_274.00,2.042425504,Queens,South Jamaica
+47_444.00,2.035589486,Brooklyn,Midwood
+81_671.01,2.033524188,Queens,Middle Village
+81_671.02,2.033524188,Queens,Middle Village
+81_632.00,2.031515143,Queens,Laurelton
+81_554.00,2.026300544,Queens,Queens Village
+81_1008.00,2.024598295,Queens,Baywater
+81_466.00,2.021856735,Queens,Jamaica Estates
+81_8.00,2.020046098,Queens,Woodhaven
+81_358.00,2.017716582,Queens,Laurelton
+47_838.00,2.012138983,Brooklyn,Farragut
+47_752.00,2.010994184,Brooklyn,Midwood
+47_1176.01,2.010560192,Brooklyn,Cypress Hills
+81_1471.00,2.007348095,Queens,Bayside
+81_184.02,2.003849098,Queens,South Jamaica
+81_460.00,2.001326542,Queens,Jamaica
+47_1134.00,1.998884146,Brooklyn,East New York
+81_478.00,1.998144523,Queens,Jamaica Estates
+47_588.00,1.998124923,Brooklyn,Sheepshead Bay
+81_398.00,1.994901507,Queens,St. Albans
+81_439.00,1.992279432,Queens,Corona
+81_450.00,1.985059107,Queens,Jamaica hills
+81_403.00,1.980719822,Queens,Corona
+81_18.00,1.978987764,Queens,Woodhaven
+47_144.00,1.97368695,Brooklyn,Dyker Heights
+47_146.00,1.97368695,Brooklyn,Dyker Heights
+81_327.00,1.963098621,Queens,Jackson Heights
+47_462.01,1.956108101,Brooklyn,Midwood
+47_390.00,1.952465801,Brooklyn,Sheepshead Bay
+81_194.02,1.932384479,Queens,Jamaica
+47_46.00,1.930443749,Brooklyn,Bay Ridge
+47_1164.00,1.927541883,Brooklyn,East New York
+47_996.00,1.927412341,Brooklyn,Canarsie
+47_688.00,1.926964464,Brooklyn, Mill Basin
+81_530.00,1.922783383,Queens,St. Albans
+81_1032.02,1.922343031,Queens,Far Rockaway
+47_846.00,1.921780429,Brooklyn,Farragut
+81_1215.00,1.921643678,Queens,Kissena Park South
+47_700.00,1.921079657,Brooklyn, Mill Basin
+81_463.00,1.91944957,Queens,Elmhurst
+81_50.00,1.915107759,Queens,Ozone Park
+81_176.00,1.912815103,Queens,South Ozone Park
+47_85.00,1.909558156,Brooklyn,Red Hook
+47_354.00,1.906318576,Brooklyn,Coney Island
+47_660.00,1.906305883,Brooklyn,Marine Park
+81_594.00,1.90332268,Queens,Cambria Heights
+81_202.00,1.900003001,Queens,Jamaica
+47_388.00,1.880034822,Brooklyn,Homecrest
+47_702.01,1.877202994,Brooklyn, Mill Basin
+47_746.00,1.873304742,Brooklyn,Flatlands
+81_44.01,1.872616202,Queens,Ozone Park
+81_468.00,1.86557055,Queens,Jamaica
+47_202.00,1.864020048,Brooklyn,Dyker Heights
+81_1072.01,1.859177888,Queens,Broad Channel
+81_194.01,1.855963466,Queens,Jamaica
+81_415.00,1.850139977,Queens,Corona
+47_732.00,1.846283311,Brooklyn,Flatlands
+81_664.00,1.845702658,Queens,Rosedale
+81_1157.00,1.845623596,Queens,Murray Hill (Queens)
+81_945.00,1.838106544,Queens,College Point
+81_405.00,1.835375229,Queens,Corona
+81_916.02,1.827479886,Queens,Breezy Point
+47_626.00,1.822367971,Brooklyn,Sheepshead Bay
+47_960.00,1.820108302,Brooklyn,Canarsie
+81_469.00,1.812536418,Queens,Elmhurst
+81_973.00,1.808986948,Queens,Whitestone
+81_352.00,1.802975192,Queens,St. Albans
+47_278.00,1.801981246,Brooklyn,Bath Beach
+81_42.00,1.801968563,Queens,Ozone Park
+81_363.00,1.797800609,Queens,East Elmhurst
+47_184.00,1.796397886,Brooklyn,Bensonhurst
+81_1341.00,1.793246099,Queens,Utopia
+81_188.00,1.791434878,Queens,South Jamaica
+47_632.00,1.791199333,Brooklyn,Gerritsen Beach
+47_214.00,1.789422893,Brooklyn,Borough Park
+47_964.00,1.787891258,Brooklyn,Canarsie
+81_493.02,1.785378831,Queens,Maspeth
+47_986.00,1.781212425,Brooklyn,Canarsie
+81_309.02,1.773646607,Queens,Jackson Heights
+81_1417.01,1.767137041,Queens,Auburndale
+81_790.00,1.761177501,Queens,South Jamaica
+81_538.00,1.760040896,Queens,Queens Village
+81_529.00,1.758569823,Queens,Maspeth
+81_1417.02,1.75720797,Queens,Auburndale
+81_484.00,1.752966238,Queens,Hollis
+81_527.00,1.750009215,Queens,Maspeth
+81_515.00,1.748737428,Queens,Maspeth
+81_1081.01,1.748522092,Queens,Auburndale
+81_1083.00,1.748345435,Queens,Auburndale
+81_1205.00,1.742066007,Queens,East Flushing
+47_722.00,1.736622388,Brooklyn,Flatlands
+81_564.00,1.731675481,Queens,Queens Village
+47_270.00,1.723095789,Brooklyn,Bensonhurst
+47_646.00,1.722698222,Brooklyn,Marine Park
+81_703.00,1.718467155,Queens,Rego Park
+47_918.00,1.714259683,Brooklyn,Brownsville
+47_302.00,1.713122607,Brooklyn,Gravesend
+81_292.00,1.707664403,Queens,Rochdale
+81_1571.01,1.705636158,Queens,Bellerose / Floral Park
+47_928.00,1.699607731,Brooklyn,East Flatbush
+81_768.00,1.699488887,Queens,Rochdale
+47_1132.00,1.691401734,Brooklyn,East New York
+47_304.00,1.683990477,Brooklyn,Gravesend
+81_427.00,1.683533357,Queens,Corona
+81_803.01,1.677087947,Queens,Kissena Park South
+81_556.00,1.672579374,Queens,Queens Village
+47_656.00,1.667932612,Brooklyn,Marine Park
+47_174.00,1.663799728,Brooklyn,Bath Beach
+81_434.00,1.660620792,Queens,Jamaica
+81_725.00,1.660162323,Queens,Forest Hills Gardens
+81_727.00,1.660030355,Queens,Forest Hills Gardens
+81_735.00,1.659658405,Queens,Forest Hills Gardens
+81_376.00,1.656266388,Queens,St. Albans
+81_94.00,1.652715619,Queens,South Ozone Park
+81_1223.00,1.650052789,Queens,Utopia
+81_497.00,1.649683157,Queens,Maspeth
+47_442.00,1.644548966,Brooklyn,Midwood
+81_40.01,1.640119235,Queens,Ozone Park
+81_656.00,1.630024023,Queens,Rosedale
+81_54.00,1.625776127,Queens,Ozone Park
+47_1020.00,1.619890641,Brooklyn,Canarsie
+81_448.00,1.618574406,Queens,Jamaica hills
+81_208.00,1.615876619,Queens,Jamaica
+81_106.00,1.601867298,Queens,South Ozone Park
+81_1091.00,1.596668949,Queens,Bayside
+81_1081.02,1.596196601,Queens,Bayside
+81_258.00,1.583596227,Queens,Jamaica
+81_414.00,1.580785245,Queens,Jamaica
+47_452.00,1.580625118,Brooklyn,Midwood
+81_437.00,1.572694381,Queens,Corona
+81_457.00,1.572644676,Queens,Elmhurst
+81_260.00,1.572575832,Queens,Jamaica
+81_1241.00,1.564056634,Queens,Hillcrest
+81_861.00,1.563986731,Queens,East Flushing
+81_1195.00,1.560343881,Queens,East Flushing
+81_38.00,1.55347647,Queens,Ozone Park
+47_598.00,1.534483448,Brooklyn,Sheepshead Bay
+81_646.00,1.52409332,Queens,Laurelton
+81_1033.00,1.523805494,Queens,Bowne Park
+81_513.00,1.52092406,Queens,Maspeth
+47_576.00,1.518348657,Brooklyn,Sheepshead Bay
+81_1333.00,1.516509715,Queens,Fresh Meadows
+81_480.00,1.514481308,Queens,Jamaica
+81_814.00,1.512214733,Queens,South Ozone Park
+81_1451.01,1.51032221,Queens,Auburndale
+81_250.00,1.509916172,Queens,Jamaica
+47_1006.00,1.509712908,Brooklyn,Canarsie
+81_512.00,1.509312311,Queens,Queens Village
+47_420.00,1.508906039,Brooklyn,Midwood
+81_4.00,1.505828193,Queens,Woodhaven
+81_596.00,1.500810173,Queens,Cambria Heights
+47_726.00,1.498060359,Brooklyn,Flatlands
+47_836.00,1.491400763,Brooklyn,Farragut
+81_394.00,1.490114041,Queens,St. Albans
+81_962.00,1.488962551,Queens,Hammels
+81_952.00,1.488855145,Queens,Hammels
+81_857.00,1.485447261,Queens,East Flushing
+47_692.00,1.480868469,Brooklyn, Mill Basin
+81_528.00,1.475747711,Queens,St. Albans
+47_956.00,1.466726463,Brooklyn,Canarsie
+47_244.00,1.462858653,Brooklyn,Borough Park
+81_31.00,1.45239558,Queens,Long Island City
+47_42.00,1.450279273,Brooklyn,Bay Ridge
+47_40.00,1.450033748,Brooklyn,Bay Ridge
+47_658.00,1.446984647,Brooklyn,Marine Park
+81_1187.00,1.441735291,Queens,East Flushing
+81_462.00,1.437099904,Queens,Jamaica
+81_964.00,1.43458849,Queens,Arverne
+81_892.00,1.434297941,Queens,Howard Beach
+47_966.00,1.427161088,Brooklyn,Canarsie
+81_1189.00,1.417576515,Queens,East Flushing
+47_188.00,1.416392457,Brooklyn,Bensonhurst
+81_504.00,1.412596904,Queens,St. Albans
+81_660.00,1.410942391,Queens,Rosedale
+47_832.00,1.409571677,Brooklyn,Farragut
+47_1008.00,1.408963924,Brooklyn,Canarsie
+47_570.00,1.405226094,Brooklyn,Marine Park
+81_838.00,1.405145912,Queens,South Ozone Park
+81_122.00,1.396194227,Queens,Richmond Hill
+81_2.00,1.392050605,Queens,Woodhaven
+81_612.00,1.391297701,Queens,Cambria Heights
+81_12.00,1.390209744,Queens,Woodhaven
+81_992.00,1.388798389,Queens,Edgemere
+81_144.00,1.377233692,Queens,Richmond Hill
+47_478.00,1.373147923,Brooklyn,Borough Park
+81_1429.00,1.371653308,Queens,Auburndale
+81_928.00,1.354094428,Queens,Belle Harbor / Neponsit
+47_11.00,1.3499614,Brooklyn,Downtown BK
+81_204.00,1.332218994,Queens,Jamaica
+47_994.00,1.331125236,Brooklyn,Canarsie
+47_1202.00,1.325225302,Brooklyn,East New York
+47_386.00,1.318619497,Brooklyn,Homecrest
+47_1184.00,1.316849412,Brooklyn,Cypress Hills
+81_404.00,1.312697869,Queens,St. Albans
+47_954.00,1.304599464,Brooklyn,Canarsie
+47_1014.00,1.300981485,Brooklyn,Canarsie
+81_270.00,1.298548288,Queens,Jamaica
+81_351.00,1.298147172,Queens,Jackson Heights
+81_526.00,1.291096941,Queens,St. Albans
+47_682.00,1.289923557,Brooklyn, Mill Basin
+81_707.00,1.278586653,Queens,Forest Hills
+81_1339.00,1.273015389,Queens,Utopia
+81_172.00,1.266392043,Queens,South Ozone Park
+81_192.00,1.264971355,Queens,South Jamaica
+81_339.00,1.264455914,Queens,Jackson Heights
+47_670.00,1.260438208,Brooklyn, Mill Basin
+81_1167.00,1.251277955,Queens,Murray Hill (Queens)
+81_402.00,1.248087116,Queens,St. Albans
+81_624.00,1.238612523,Queens,Laurelton
+47_410.00,1.235665505,Brooklyn,Gravesend
+47_636.00,1.219395083,Brooklyn,Marine Park
+47_610.02,1.213505342,Brooklyn,Brighton Beach
+81_86.00,1.192183489,Queens,Ozone Park
+47_470.00,1.189907579,Brooklyn,Borough Park
+81_320.00,1.185181113,Queens,Springfield Gardens
+47_678.00,1.183036667,Brooklyn,Flatlands
+47_1028.00,1.181559939,Brooklyn,Canarsie
+47_1026.00,1.166547942,Brooklyn,Canarsie
+81_130.00,1.16399322,Queens,Richmond Hill
+81_922.00,1.162464352,Queens,Belle Harbor / Neponsit
+81_373.00,1.161259203,Queens,East Elmhurst
+47_414.01,1.154708611,Brooklyn,Homecrest
+47_1172.02,1.149882342,Brooklyn,Cypress Hills
+81_24.00,1.148572347,Queens,Richmond Hill
+81_96.00,1.142339708,Queens,South Ozone Park
+81_1059.00,1.141985436,Queens,Bowne Park
+81_650.00,1.12980598,Queens,Laurelton
+81_154.00,1.129118393,Queens,South Richmond Hill
+81_170.00,1.119141307,Queens,South Ozone Park
+81_771.00,1.092672025,Queens,Forest Hills Gardens
+81_733.00,1.092300822,Queens,Forest Hills Gardens
+81_36.00,1.083717904,Queens,Ozone Park
+47_616.00,1.079083729,Brooklyn,Manhattan Beach
+47_662.00,1.072146969,Brooklyn,Marine Park
+81_10.00,1.054356066,Queens,Woodhaven
+81_610.00,1.047279106,Queens,Cambria Heights
+81_1267.00,1.045039228,Queens,Hillcrest
+81_120.00,1.0416443,Queens,South Richmond Hill
+47_584.00,1.04149151,Brooklyn,Sheepshead Bay
+81_558.00,1.035859386,Queens,Queens Village
+81_196.00,1.035651957,Queens,Jamaica
+81_919.00,1.035478339,Queens,College Point
+81_361.00,1.032296291,Queens,East Elmhurst
+81_182.00,1.008314826,Queens,South Jamaica
+81_34.00,0.999687487,Queens,Ozone Park
+81_461.00,0.996085004,Queens,Elmhurst
+81_28.00,0.991476919,Queens,Richmond Hill
+81_1151.00,0.990812505,Queens,Murray Hill (Queens)
+81_174.00,0.989931821,Queens,South Ozone Park
+47_930.00,0.989644785,Brooklyn,East Flatbush
+81_16.00,0.983125618,Queens,Woodhaven
+81_731.00,0.975955378,Queens,Forest Hills
+47_170.00,0.970763791,Brooklyn,Bath Beach
+81_1273.00,0.968932708,Queens,Jamaica Estates
+47_472.00,0.967113931,Brooklyn,Borough Park
+81_1275.00,0.960456057,Queens,Jamaica Estates
+81_98.00,0.958568437,Queens,South Ozone Park
+47_652.00,0.955819862,Brooklyn,Marine Park
+81_630.00,0.941360064,Queens,Laurelton
+81_840.00,0.930767942,Queens,South Ozone Park
+81_600.00,0.906386607,Queens,Cambria Heights
+81_470.00,0.905864188,Queens,Jamaica
+81_1385.01,0.903888071,Queens,Bayside
+47_246.00,0.899352681,Brooklyn,Borough Park
+81_142.01,0.891264077,Queens,Richmond Hill
+47_1010.00,0.889737554,Brooklyn,Canarsie
+81_432.00,0.882630351,Queens,St. Albans
+81_606.00,0.877673164,Queens,Cambria Heights
+81_156.00,0.876358137,Queens,South Richmond Hill
+47_458.00,0.870597099,Brooklyn,Midwood
+81_116.00,0.868707596,Queens,Ozone Park
+81_6.00,0.862095152,Queens,Woodhaven
+47_578.00,0.858047337,Brooklyn,Sheepshead Bay
+47_674.00,0.85550143,Brooklyn, Mill Basin
+81_1459.00,0.852173216,Queens,Auburndale
+47_328.00,0.846256604,Brooklyn,Coney Island
+81_1399.00,0.845407149,Queens,Bayside
+81_230.00,0.843607892,Queens,Briarwood
+81_347.00,0.835471875,Queens,East Elmhurst
+81_598.00,0.829758171,Queens,Cambria Heights
+81_1579.02,0.817131091,Queens,New Hyde Park
+47_612.00,0.815382698,Brooklyn,Manhattan Beach
+81_1409.02,0.808260021,Queens,Auburndale
+47_606.00,0.8008562,Brooklyn,Sheepshead Bay
+47_864.00,0.785204589,Brooklyn,East Flatbush
+81_520.00,0.784005157,Queens,St. Albans
+81_626.00,0.771011214,Queens,Laurelton
+47_140.00,0.770228316,Brooklyn,Dyker Heights
+47_242.00,0.751096995,Brooklyn,Borough Park
+47_566.00,0.746850384,Brooklyn,Marine Park
+47_640.00,0.737353435,Brooklyn,Marine Park
+81_280.00,0.693540496,Queens,St. Albans
+81_353.00,0.691422939,Queens,East Elmhurst
+47_754.00,0.679622281,Brooklyn,Midwood
+81_548.00,0.676414042,Queens,Queens Village
+47_990.00,0.637697852,Brooklyn,Canarsie
+81_837.00,0.637648644,Queens,Kissena Park South
+81_276.00,0.623448127,Queens,South Jamaica
+81_102.00,0.613653192,Queens,South Ozone Park
+81_540.00,0.608083223,Queens,Queens Village
+81_100.00,0.602253838,Queens,South Ozone Park
+81_729.00,0.586015012,Queens,Forest Hills
+81_542.00,0.582445094,Queens,Queens Village
+47_758.00,0.58234235,Brooklyn,Midwood
+81_482.00,0.575478822,Queens,Hollis
+81_337.00,0.571953307,Queens,Jackson Heights
+47_706.00,0.5607505,Brooklyn, Mill Basin
+47_730.00,0.552969263,Brooklyn,Flatlands
+47_468.00,0.552444579,Brooklyn,Borough Park
+81_1291.02,0.539191956,Queens,Oakland Gardens
+81_126.01,0.488626279,Queens,Richmond Hill
+47_1004.00,0.481372626,Brooklyn,Canarsie
+81_365.00,0.470766051,Queens,East Elmhurst
+81_566.00,0.469656379,Queens,Queens Village
+81_614.00,0.467313016,Queens,Cambria Heights
+81_452.00,0.457984652,Queens,Jamaica hills
+81_502.01,0.44376224,Queens,Hollis
+81_534.00,0.42904832,Queens,Cambria Heights
+81_560.00,0.426529026,Queens,Queens Village
+81_1403.00,0.393737255,Queens,Bayside
+81_178.00,0.353849019,Queens,South Ozone Park
+81_112.00,0.347878466,Queens,Ozone Park
+47_984.00,0.346806981,Brooklyn,Canarsie
+81_1147.00,0.327903164,Queens,Murray Hill (Queens)
+81_166.00,0.325850642,Queens,South Ozone Park
+81_496.00,0.298798399,Queens,Queens Village
+81_284.00,0.29407155,Queens,South Jamaica
+81_616.01,0.281268115,Queens,Laurelton
+81_562.00,0.255444155,Queens,Queens Village
+81_158.00,0.243890575,Queens,South Ozone Park
+81_379.00,0.241640429,Queens,Corona
+81_456.00,0.238706152,Queens,Jamaica hills
+47_150.00,0.221237671,Brooklyn,Dyker Heights
+81_114.00,0.160545055,Queens,Ozone Park
+81_518.00,0.129114597,Queens,St. Albans
+81_476.00,0.117452627,Queens,Jamaica Estates
+81_502.02,0.068816435,Queens,Hollis
+81_818.00,0.068341691,Queens,South Ozone Park
+47_744.00,0.060504992,Brooklyn,Flatlands
+81_148.00,0.020072123,Queens,South Richmond Hill
+81_1199.00,4.44E-05,Queens,East Flushing
+81_164.00,-0.001229807,Queens,South Ozone Park
+47_1016.00,-0.025616384,Brooklyn,Canarsie
+81_152.00,-0.026829158,Queens,South Richmond Hill
+81_411.00,-0.050977481,Queens,Corona
+81_293.00,-0.053991838,Queens,Woodside
+81_104.00,-0.067629362,Queens,South Ozone Park
+81_168.00,-0.071101229,Queens,South Ozone Park
+81_124.00,-0.083991661,Queens,Richmond Hill
+81_1203.00,-0.088496117,Queens,East Flushing
+81_142.02,-0.121337393,Queens,Richmond Hill
+81_20.00,-0.136189193,Queens,Woodhaven
+81_1409.01,-0.173775261,Queens,Auburndale
+81_32.00,-0.174604276,Queens,Ozone Park
+47_676.00,-0.184743543,Brooklyn, Mill Basin
+81_1247.00,-0.213362696,Queens,Hillcrest
+81_329.00,-0.238861073,Queens,Jackson Heights
+81_150.00,-0.324309721,Queens,South Richmond Hill
+47_672.00,-0.350506896,Brooklyn, Mill Basin
+81_400.00,-0.422879042,Queens,St. Albans
+81_846.02,-0.537260074,Queens,Springfield Gardens
+81_110.00,-0.660353366,Queens,South Richmond Hill
+81_26.00,-0.672308704,Queens,Richmond Hill
+81_371.00,-1.014514482,Queens,East Elmhurst
+47_1070.00,NA,Brooklyn,Spring Creek
+47_1180.00,NA,Brooklyn,Broadway Junction
+47_154.00,NA,Brooklyn,Dyker Heights
+47_175.00,NA,Brooklyn,Greenwood Cemetery
+47_177.00,NA,Brooklyn,Prospect Park South
+47_18.00,NA,Brooklyn,Bush Terminal / Industry City
+47_3.02,NA,Brooklyn,Columbia Street Waterfront District
+47_407.00,NA,Brooklyn,Bushwick
+47_543.00,NA,Brooklyn,Navy Yard
+47_666.00,NA,Brooklyn,Plum Beach
+47_702.03,NA,Brooklyn,Jamaica Bay Wetlands (Brooklyn)
+47_812.00,NA,Brooklyn,Wingate
+47_852.00,NA,Brooklyn,Cemetary of the Holy Cross
+47_86.00,NA,Brooklyn,Sunset Park
+47_874.02,NA,Brooklyn,Wingate
+61_1.00,NA,Manhattan,Ellis Island/ Liberty Island
+61_10.01,NA,Manhattan,Lower East Side
+61_143.00,NA,Manhattan,Central Park
+61_197.01,NA,Manhattan,Morningside Heights
+61_201.01,NA,Manhattan,Morningside Heights
+61_203.00,NA,Manhattan,Morningside Heights
+61_207.01,NA,Manhattan,Morningside Heights
+61_217.01,NA,Manhattan,Manhattanville
+61_221.02,NA,Manhattan,Central Harlem ( Northof 125th)
+61_237.00,NA,Manhattan,Hamilton Heights
+61_240.00,NA,Manhattan,Randall's Island
+61_249.00,NA,Manhattan,Washington Heights
+61_289.00,NA,Manhattan,Inwood
+61_297.00,NA,Manhattan,Inwood
+61_301.00,NA,Manhattan,Inwood
+61_311.00,NA,Manhattan,Washington Heights
+61_313.00,NA,Manhattan,Hamilton Heights
+61_315.00,NA,Manhattan,Morningside Heights
+61_317.02,NA,Manhattan,West Village
+61_319.00,NA,Manhattan,Financial District
+61_44.01,NA,Manhattan,Stuyvesant Town / Peter-Cooper Village
+61_5.00,NA,Manhattan,Governor's Island
+61_55.01,NA,Manhattan,Greenwich Village
+61_60.00,NA,Manhattan,Stuyvesant Town / Peter-Cooper Village
+61_62.00,NA,Manhattan,Grammercy
+81_1072.02,NA,Queens,Jamaica Bay Wetlands (Queens)
+81_1211.00,NA,Queens,Kissena Park South
+81_1283.00,NA,Queens,Fresh Meadows
+81_1319.00,NA,Queens,Douglaston / Little Neck
+81_1385.02,NA,Queens,Douglaston / Little Neck
+81_171.00,NA,Queens,Long Island City / Industrial Rail Yard
+81_191.00,NA,Queens,Long Island City
+81_197.00,NA,Queens,Sunnyside Industrial
+81_219.00,NA,Queens,Sunnyside Industrial
+81_229.00,NA,Queens,Sunnyside Industrial
+81_244.00,NA,Queens,Jamaica
+81_299.00,NA,Queens,Astoria Heights
+81_331.00,NA,Queens,East Elmhurst
+81_37.00,NA,Queens,Ravenswood / Queensbridge
+81_383.00,NA,Queens,East Elmhurst
+81_426.00,NA,Queens,St. Albans
+81_561.00,NA,Queens,Large CEMETERY
+81_641.02,NA,Queens,Forest Hills
+81_716.00,NA,Queens,Springfield Gardens
+81_793.00,NA,Queens,Kew Gardens Hills
+81_918.00,NA,Queens,Belle Harbor / Neponsit
+81_99.00,NA,Queens,Steinway
+81_999.00,NA,Queens,Bayside
